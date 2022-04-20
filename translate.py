@@ -22,23 +22,17 @@ class Translate:
                 count += 1
                 clearlist = []
                 clearlist = re.split("[\-\s]", j)
-                if clearlist[0] == i and len(clearlist) == 1:
+                if clearlist[0] == i and len(clearlist) == 1 and len(self.text) == 1:
                     tlist.append(rlist[llist.index(j)])
                     break
-                elif clearlist[0] == i and len(clearlist) > 1:
+                elif clearlist[0] == i and len(clearlist) > 1 and len(self.text) > 1:
                     count2 = 0
-                    triallist = []
                     for k in clearlist:
-                        count2 += 1
-                        if k == self.text[self.text.index(i) + count2 - 1]:
-                            triallist.append(rlist[llist.index(j)])
-                        if len(triallist) == len(clearlist):
-                            for n in triallist:
-                                if triallist.index(n) == 0:
-                                    tlist.append(n)
-                        else:
-                            tlist.append((rlist[llist.index(j)]))
+                        if k in self.text:
+                            count2 += 1
+                    if count2 == len(clearlist):
+                        tlist.append(rlist[llist.index(j)])
                         break
                 elif count == len(llist):
-                        tlist.append("out")
+                    tlist.append("out")
         return tlist
