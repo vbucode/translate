@@ -3,9 +3,17 @@ from words import Words
 
 def main():
     ip = input("translate: ")
-    w = Words(ip)
+    if ip == "exit":
+        exit()
+    it = translater(ip)
+    print("translated text: ", it)
+def translater(text):
+    w = Words(text)
     wl = w.load()
     t = Translate(wl)
     tl = t.load()
-    print("translated text: {}".format(" ".join(tl)))
-main()
+    varstring = " ".join(tl)
+    tl.clear()
+    return varstring
+while True:
+    main()
