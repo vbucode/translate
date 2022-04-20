@@ -7,7 +7,5 @@ def main():
     wl = w.load()
     t = Translate(wl)
     tl = t.load()
-    for i in tl:
-        print(i)
-while True:
-    main()
+    print("translated text: {}".format(" ".join(tl)))
+main()
