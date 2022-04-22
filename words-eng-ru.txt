@@ -5614,58 +5614,58 @@ his:его
     chief [ tʃiːf ] — шеф
     colony [ ˈkɒl.ə.ni ] — колония
     clock [ klɒk ] — часы
-    mine [ maɪn ] — мой
-    tie [ taɪ ] — галстук / завязывать
-    enter [ ˈen.tə r] — вход / входить
-    major [ ˈmeɪ.dʒə r] — майор / основной
-    fresh [ freʃ ] — свежий
-    search [ sɜːtʃ ] — поиск / искать
-    send [ send ] — посылать
-    yellow [ ˈjel.əʊ ] — желтый
-    gun [ ɡʌn ] — пистолет / ружье
-    allow [ əˈlaʊ ] — позволять
-    print [ prɪnt ] — печать / печатать
-    dead [ ded ] — мертвый
-    spot [ spɒt ] — место / пятно
-    desert [ ˈdez.ət ] — пустыня
-    suit [ suːt ] — костюм / подходить
-    current [ ˈkʌr. ə nt ] — текущий
-    lift [ lɪft ] — поднимать / лифт ( брит. )
-    rose [ rəʊz ] — роза
-    arrive [ əˈraɪv ] — прибывать
-    master [ ˈmɑː.stə r] — мастер / главный / справляться
-    track [ træk ] — трек / след
-    parent [ ˈpeə.r ə nt ] — родитель
-    shore [ ʃɔː r] — побережье
-    division [ dɪˈvɪʒ. ə n ] — деление
-    sheet [ ʃiːt ] — лист / простынь
-    substance [ ˈsʌb.st ə ns ] — вещество
-    favour [ ˈfeɪ.və r] — одолжение
-    connect [ kəˈnekt ] — соединять
-    post [ pəʊst ] — почта / после
-    spend [ spend ] — тратить
-    chord [ kɔːd ] — аккорд
-    fat [ fæt ] — жир / жирный
-    glad [ ɡlæd ] — рад
-    original [ əˈrɪdʒ. ə n. ə l ] — оригинальный
-    share [ ʃeə r ] — делиться
-    station [ ˈsteɪ.ʃ ə n ] — станция
-    dad [ dæd ] — папа
-    bread [ bred ] — хлеб
-    charge [ tʃɑːdʒ ] — заряд / заряжать
-    proper [ ˈprɒp.ə r] — правильный
-    bar [ bɑː r] — бар
-    offer [ ˈɒf.ə r] — предлагать / предложение
-    segment [ ˈseɡ.mənt ] — часть / сегмент
-    slave [ sleɪv ] — раб
-    duck [ dʌk ] — утка
-    instant [ ˈɪn.stənt ] — мгновенный
-    market [ ˈmɑː.kɪt ] — рынок
-    degree [ dɪˈɡriː ] — температура
-    populate [ ˈpɒp.jə.leɪt ] — населять
-    education [ ˌedʒ.uˈkeɪ.ʃ ə n ] — образование
-    dear [ dɪə r] — дорогая
-    enemy [ ˈen.ə.mi ] — враг
+mine:мой
+tie:галстук, завязывать
+enter:вход, входить
+major:основной
+fresh:свежий
+search:поиск, искать
+send:посылать
+yellow:желтый
+gun:пистолет, ружье
+allow:позволять
+print:печать, печатать
+dead:мертвый
+spot:место, пятно
+desert:пустыня
+suit:костюм, подходить
+current:текущий
+lift:поднимать, лифт
+rose:роза
+arrive:прибывать
+master:мастер, главный, справляться
+track:трек, след
+parent:родитель
+shore:побережье
+division:деление
+sheet:лист, простынь
+substance:вещество
+favour:одолжение
+connect:соединять
+post:почта, после
+spend:тратить
+chord:аккорд
+fat:жир, жирный
+glad:рад
+original:оригинальный
+share:делиться
+station:станция
+dad:папа
+bread:хлеб
+charge:заряд, заряжать
+proper:правильный
+bar:бар
+offer:предлагать, предложение
+segment:часть, сегмент
+slave:раб
+duck:утка
+instant:мгновенный
+market:рынок
+degree:температура
+populate:населять
+education:образование
+dear:дорогая
+enemy:враг
 reply:ответ, отвечать
 drink:напиток, пить
 occur:происходить
