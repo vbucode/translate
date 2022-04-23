@@ -2,7 +2,7 @@
 
 support russian language
 
-database have 5500 about words
+database have about 5500 words
 
 words not translated will be "out"
 
