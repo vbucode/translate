@@ -1,19 +1,16 @@
-from translate import Translate
+from search import Search
 from words import Words
 
 def main():
-    ip = input("translate: ")
-    if ip == "exit":
+    inp = input("translate: ")
+    if inp == "exit":
         exit()
-    it = translater(ip)
-    print("translated text: ", it)
-def translater(text):
-    w = Words(text)
+    w = Words(inp)
     wl = w.load()
-    t = Translate(wl)
-    tl = t.load()
-    varstring = " ".join(tl)
-    tl.clear()
-    return varstring
+    s = Search(wl)
+    sl = s.load()
+    varstring = " ".join(sl)
+    #sl.clear()
+    print("translated text: ", sl)
 while True:
     main()

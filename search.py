@@ -12,7 +12,7 @@ with open("words-eng-ru.txt", "r") as file:
             left, right, *res = line.split(":")
             llist.append(left)
             rlist.append(right.replace("\n", ""))
-class Translate:
+class Search:
     def __init__(self, text):
         self.text = text
     def load(self):
