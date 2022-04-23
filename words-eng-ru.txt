@@ -5382,75 +5382,75 @@ his:его
     clothes [ kləʊðz ] — одежда
     strange [ streɪndʒ ] — странный
     gone [ ɡɒn ] — ушедший
-    trade [ treɪd ] — торговля
-    melody [ ˈmel.ə.di ] — мелодия
-    trip [ trɪp ] — поездка
-    office [ ˈɒf.ɪs ] — офис
-    receive [ rɪˈsiːv ] — получать
-    row [ rəʊ ] — ряд
-    mouth [ maʊθ ] — рот
-    exact [ ɪɡˈzækt ] — точный
-    symbol [ ˈsɪm.b ə l ] — символ
-    die [ daɪ ] — умирать
-    least [ liːst ] — наименее / меньше всего
-    trouble [ ˈtrʌb. ə l ] — проблема
-    shout [ ʃaʊt ] — кричать
-    except [ ɪkˈsept ] — кроме / исключая
-    writer [ ˈraɪ.tə r] — писатель
-    seed [siːd] — семя
-    tone [ təʊn ] — тон
-    join [ dʒɔɪn ] — присоединяться
-    suggest [ səˈdʒest ] — предлагать
-    clean [ kliːn ] — чисто / чистый
-    break [ breɪk ] — перерыв / ломать
-    lady [ ˈleɪ.di ] — леди
-    yard [ jɑːd ] — двор
-    rise [ raɪz ] — рост / подниматься
-    bad [ bæd ] — плохой
-    blow [ bləʊ ] — удар / дуть
-    oil [ ɔɪl ] — масло
-    blood [ blʌd ] — кровь
-    touch [ tʌtʃ ] — трогать / прикосновение
-    goal [ ɡəʊl ] — цель
-    cent [ sent ] — цент
-    mix [ mɪks ] — смесь / смешивать
-    team [ tiːm ] — команда
-    wire [ waɪə r] — проволока
-    cost [ kɒst ] — стоимость
-    lost [ lɒst ] — потерял / потерянный
-    brown [ braʊn ] — коричневый
-    wear [ weə r] — носить
-    garden [ ˈɡɑː.d ə n ] — сад
-    equal [ ˈiː.kwəl ] — равный
-    sent [ sent ] — отправил / отправленный
-    choose [ tʃuːz ] — выбирать
-    feel [ fiːl ] — чувствовать
-    fit [ fɪt ] — соответствовать / подходить
-    flow [ fləʊ ] — поток / течь
-    fair [ feə r] — ярмарка / честный
-    bank [ bæŋk ] — банк
-    collect [ kəˈlekt ] — собирать
-    save [ seɪv ] — сохранять
-    control [ kənˈtrəʊl ] — контроль / контролировать
-    decimal [ ˈdes.ɪ.məl ] — десятичный
-    ear [ ɪə r] — ухо
-    else [ els ] — еще
-    quite [ kwaɪt ] — довольно
-    broke [ brəʊk ] — сломал / без денег
-    case [ keɪs ] — случай
-    middle [ ˈmɪd. ə l ] — средний
-    kill [ kɪl ] — убивать
-    son [ sʌn ] — сын
-    lake [ leɪk ] — озеро
-    moment [ ˈməʊ.mənt ] — момент
-    scale [ skeɪl ] — шкала
-    loud [ laʊd ] — громко
-    spring [ sprɪŋ ] — весна
-    observe [ əbˈzɜːv ] — наблюдать
-    child [ tʃaɪld ] — ребенок
-    straight [ streɪt ] — прямо / прямой
-    consonant [ ˈkɒn.sə.nənt ] — согласный (звук)
-    nation [ ˈneɪ.ʃ ə n ] — нация
+trade:торговля
+melody:мелодия
+trip:поездка
+office:офис
+receive:получать
+row:ряд
+mouth:рот
+exact:точный
+symbol:символ
+die:умирать
+least:наименее, меньше всего
+trouble:проблема
+shout:кричать
+except:кроме, исключая
+writer:писатель
+seed:семя
+tone:тон
+join:присоединяться
+suggest:предлагать
+clean:чисто, чистый
+break:перерыв, ломать
+lady:леди
+yard:двор
+rise:рост, подниматься
+bad:плохой
+blow:удар, дуть
+oil:масло
+blood:кровь
+touch:трогать, прикосновение
+goal:цель
+cent:цент
+mix:смесь, смешивать
+team:команда
+wire:проволока
+cost:стоимость
+lost:потерял, потерянный
+brown:коричневый
+wear:носить
+garden:сад
+equal:равный
+sent:отправил, отправленный
+choose:выбирать
+feel:чувствовать
+fit:соответствовать, подходить
+flow:поток, течь
+fair:ярмарка, честный
+bank:банк
+collect:собирать
+save:сохранять
+control:контроль, контролировать
+decimal:десятичный
+ear:ухо
+else:еще
+quite:довольно
+broke:сломал, без денег
+case:случай
+middle:средний
+kill:убивать
+son:сын
+lake:озеро
+moment:момент
+scale:шкала
+loud:громко
+spring:весна
+observe:наблюдать
+child:ребенок
+straight:прямо, прямой
+consonant:согласный(звук)
+nation:нация
 dictionary:словарь
 milk:молоко
 speed:скорость
