@@ -5501,51 +5501,51 @@ his:его
     held [ held ] — держал
     hair [ heə r] — волосы
     describe [ dɪˈskraɪb ] — описывать
-    cook [ kʊk ] — готовить
-    floor [ flɔː r] — пол
-    either [ ˈaɪ.ðə r] — или
-    result [ rɪˈzʌlt ] — результат
-    burn [ bɜːn ] — гореть / ожог
-    hill [ hɪl ] — холм
-    safe [ seɪf ] — безопасный
-    cat [ kæt ] — кот / кошка
-    century [ ˈsen.tʃ ə r.i ] — век / столетие
-    consider [ kənˈsɪd.ə r] — рассматривать
-    type [ taɪp ] — тип / печатать
-    law [ lɔː ] — закон
-    bit [ bɪt ] — немного / часть
-    coast [ kəʊst ] — берег
-    copy [ ˈkɒp.i ] — копировать / копия
-    phrase [ freɪz ] — фраза / формулировать
-    silent [ ˈsaɪlənt ] — тихий
-    tall [ tɔːl ] — высокий
-    sand [ sænd ] — песок
-    soil [ sɔɪl ] — почва
-    roll [ rəʊl ] — вертеть
-    temperature [ ˈtem.prə.tʃə r] — температура
-    finger [ ˈfɪŋ.ɡə r] — палец
-    industry [ ˈɪn.də.stri ] — индустрия
-    value [ ˈvæl.juː ] — значение / стоимость / ценность
-    fight [ faɪt ] — драка / бороться
-    lie [ laɪ ] — ложь / лгать
-    beat [ biːt ] — бить / ритм
-    excite [ ɪkˈsaɪt ] — возбуждать
-    natural [ˈnætʃ.ər.əl / ] — натуральный
-    view [ vjuː ] — вид
-    sense [ sens ] — смысл / чувство
-    capital [ ˈkæp.ɪ.t ə l ] — столица
-    won’t [ wəʊnt ] — не будет
-    chair [ tʃeə r] — стул
-    danger [ ˈdeɪn.dʒə r] — опасность
-    fruit [ fruːt ] — фрукт
-    rich [ rɪtʃ ] — богатый
-    thick [ θɪk ] — толстый
-    soldier [ ˈsəʊl.dʒə r] — солдат
-    process [ ˈprəʊ.ses ] — процесс / подвергать обработке
-    operate [ ˈɒp. ə r.eɪt ] — управлять
-    practice [ ˈpræk.tɪs ] — практиковать / практика
-    separate [ ˈsep ə reɪt ] — разделять
-    difficult [ ˈdɪf.ɪ.k ə lt ] — сложный
+cook:готовить
+floor:пол
+either:или
+result:результат
+burn:гореть, ожог
+hill:холм
+safe:безопасный
+cat:кот, кошка
+century:век, столетие
+consider:рассматривать
+type:тип, печатать
+law:закон
+bit:немного, часть
+coast:берег
+copy:копировать, копия
+phrase:фраза, формулировать
+silent:тихий
+tall:высокий
+sand:песок
+soil:почва
+roll:вертеть
+temperature:температура
+finger:палец
+industry:индустрия
+value:значение, стоимость, ценность
+fight:драка, бороться
+lie:ложь, лгать
+beat:бить, ритм
+excite:возбуждать
+natural:натуральный
+view:вид
+sense:смысл, чувство
+capital:столица
+won’t:не будет
+chair:стул
+danger:опасность
+fruit:фрукт
+rich:богатый
+thick:толстый
+soldier:солдат
+process:процесс, подвергать обработке
+operate:управлять
+practice:практиковать, практика
+separate:разделять
+difficult:сложный
 doctor:доктор
 please:пожалуйста, угождать
 protect:защищать
