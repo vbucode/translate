@@ -5451,56 +5451,56 @@ his:его
     straight [ streɪt ] — прямо / прямой
     consonant [ ˈkɒn.sə.nənt ] — согласный (звук)
     nation [ ˈneɪ.ʃ ə n ] — нация
-    dictionary [ ˈdɪk.ʃ ə n. ə r.i ] — словарь
-    milk [ mɪlk ] — молоко
-    speed [ spiːd ] — скорость
-    method [ ˈmeθ.əd ] — метод
-    organ [ ˈɔː.ɡən ] — орган
-    pay [ peɪ ] — платить
-    age [ eɪdʒ ] — возраст
-    section [ ˈsek.ʃ ə n ] — раздел
-    dress [ dres ] — платье / одеваться
-    cloud [ klaʊd ] — облако
-    surprise [ səˈpraɪz ] — сюрприз
-    quiet [ ˈkwaɪ.ət ] — тихо / тихий
-    stone [ stəʊn ] — камень
-    tiny [ ˈtaɪ.ni ] — крошечный
-    climb [ klaɪm ] — подъем / взбираться
-    cool [ kuːl ] — крутой / прохладно
-    design [ dɪˈzaɪn ] — дизайн
-    poor [ pɔː r] — бедный
-    lot [ lɒt ] — много
-    explain [ ɪkˈspleɪn ] — объяснять
-    bottom [ ˈbɒt. ə m ] — низ
-    key [ kiː ] — ключ
-    iron [ aɪən ] — железо
-    single [ ˈsɪŋ.ɡ ə l ] — один
-    stick [ stɪk ] — придерживаться / приклеивать
-    flat [ flæt ] — квартира ( брит. ) / плоский
-    twenty [ ˈtwen.ti ] — двадцать
-    skin [ skɪn ] — кожа
-    smile [ smaɪl ] — улыбка
-    crease [ kriːs ] — складка / мять
-    hole [ həʊl ] — дыра
-    jump [ dʒʌmp ] — прыгать
-    baby [ ˈbeɪ.bi ] — ребенок
-    eight [ eɪt ] — восемь
-    village [ ˈvɪl.ɪdʒ ] — деревня
-    meet [ miːt ] — встречать
-    root [ ruːt ] — корень
-    buy [ baɪ ] — покупать
-    raise [ reɪz ] — поднимать / повышать
-    solve [ sɒlv ] — решать
-    metal [ ˈmet. ə l ] — металл
-    whether [ ˈweð.ə r] — будь то / ли
-    push [ pʊʃ ] — давить / нажимать
-    seven [ ˈsev. ə n ] — семь
-    paragraph [ ˈpær.ə.ɡrɑːf ] — параграф
-    third [ θɜːd ] — третий
-    shall [ ʃæl ] — должен
-    held [ held ] — держал
-    hair [ heə r] — волосы
-    describe [ dɪˈskraɪb ] — описывать
+dictionary:словарь
+milk:молоко
+speed:скорость
+method:метод
+organ:орган
+pay:платить
+age:возраст
+section:раздел
+dress:платье, одеваться
+cloud:облако
+surprise:сюрприз
+quiet:тихо, тихий
+stone:камень
+tiny:крошечный
+climb:подъем, взбираться
+cool:крутой, прохладно
+design:дизайн
+poor:бедный
+lot:много
+explain:объяснять
+bottom:низ
+key:ключ
+iron:железо
+single:один
+stick:придерживаться, приклеивать
+flat:квартира, плоский
+twenty:двадцать
+skin:кожа
+smile:улыбка
+crease:складка, мять
+hole:дыра
+jump:прыгать
+baby:ребенок
+eight:восемь
+village:деревня
+meet:встречать
+root:корень
+buy:покупать
+raise:поднимать, повышать
+solve:решать
+metal:металл
+whether:будь то, ли
+push:давить, нажимать
+seven:семь
+paragraph:параграф
+third:третий
+shall:должен
+held:держал
+hair:волосы
+describe:описывать
 cook:готовить
 floor:пол
 either:или
