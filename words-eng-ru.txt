@@ -5546,74 +5546,74 @@ his:его
     practice [ ˈpræk.tɪs ] — практиковать / практика
     separate [ ˈsep ə reɪt ] — разделять
     difficult [ ˈdɪf.ɪ.k ə lt ] — сложный
-    doctor [ ˈdɒk.tə r] — доктор
-    please [ pliːz ] — пожалуйста / угождать
-    protect [ prəˈtekt ] — защищать
-    noon [ nuːn ] — полдень
-    crop [ krɒp ] — обрезать / урожай
-    modern [ ˈmɒd. ə n ] — современный
-    element [ ˈel.ɪ.mənt ] — элемент
-    hit [ hɪt ] — удар / бить
-    student [ ˈstjuː.d ə nt ] — студент
-    corner [ ˈkɔː.nə r] — угол
-    party [ ˈpɑː.ti ] — вечеринка / партия
-    supply [ səˈplaɪ ] — поставка / снабжать
-    whose [ huːz ] — чьи
-    locate [ ləʊˈkeɪt ] — размещать
-    ring [ rɪŋ ] — кольцо
-    character [ ˈkær.ək.tə r] — персонаж / характер
-    insect [ ˈɪn.sekt ] — насекомое
-    caught [ kɔːt ] — поймал / пойманный
-    period [ ˈpɪə.ri.əd ] — период / точка
-    indicate [ ˈɪn.dɪ.keɪt ] — указывать
-    radio [ ˈreɪ.di.əʊ ] — радио
-    spoke [ spəʊk ] — говорил
-    atom [ ˈæt.əm ] — атом
-    human [ ˈhjuː.mən ] — человек
-    history [ ˈhɪs.t ə r.i ] — история
-    effect [ ɪˈfekt ] — эффект / следствие
-    electric [ iˈlek.trɪk ] — электрический
-    expect [ ɪkˈspekt ] — ожидать
-    bone [ bəʊn ] — кость
-    rail [ reɪl ] — рельс / железнодорожный путь
-    imagine [ ɪˈmædʒ.ɪn ] — представлять
-    provide [ prəˈvaɪd ] — предоставлять
-    agree [ əˈɡriː ] — соглашаться
-    thus [ ðʌs ] — таким образом
-    gentle [ ˈdʒen.t ə l ] — нежный
-    woman [ ˈwʊm.ən ] — женщина
-    captain [ ˈkæp.tɪn ] — капитан
-    guess [ ɡes ] — предположение / угадывать
-    necessary [ ˈnes.ə.ser.i ] — необходимый
-    sharp [ ʃɑːp ] — острый / умный / стильный (о человеке)
-    wing [ wɪŋ ] — крыло
-    create [ kriˈeɪt ] — создавать
-    neighbour [ ˈneɪ.bə r] — сосед
-    wash [ wɒʃ ] — мыть
-    bat [ bæt ] — летучая мышь / бита
-    rather [ ˈrɑː.ðə r] — скорее
-    crowd [ kraʊd ] — толпа
-    corn [ kɔːn ] — кукуруза
-    compare [ kəmˈpeə r] — сравнивать
-    poem [ ˈpəʊ.ɪm ] — стих
-    string [ strɪŋ ] — струна
-    bell [ bel ] — колокол
-    depend [ dɪˈpend ] — зависеть
-    meat [ miːt ] — мясо
-    rub [ rʌb ] — тереть
-    tube [ tʃuːb ] — трубка / метро (в Лондоне)
-    famous [ ˈfeɪ.məs ] — известный
-    dollar [ ˈdɒl.ə r] — доллар
-    stream [ striːm ] — поток / течь
-    fear [ fɪə r] — страх / бояться
-    sight [ saɪt ] — взгляд / вид / зрение
-    thin [ θɪn ] — тонкий
-    triangle [ ˈtraɪ.æŋ.ɡ ə l ] — треугольник
-    planet [ ˈplæn.ɪt ] — планета
-    hurry [ ˈhʌr.i ] — торопиться / спешка
-    chief [ tʃiːf ] — шеф
-    colony [ ˈkɒl.ə.ni ] — колония
-    clock [ klɒk ] — часы
+doctor:доктор
+please:пожалуйста, угождать
+protect:защищать
+noon:полдень
+crop:обрезать, урожай
+modern:современный
+element:элемент
+hit:удар, бить
+student:студент
+corner:угол
+party:вечеринка, партия
+supply:поставка, снабжать
+whose:чьи
+locate:размещать
+ring:кольцо
+character:персонаж, характер
+insect:насекомое
+caught:поймал, пойманный
+period:период, точка
+indicate:указывать
+radio:радио
+spoke:говорил
+atom:атом
+human:человек
+history:история
+effect:эффект, следствие
+electric:электрический
+expect:ожидать
+bone:кость
+rail:рельс, железнодорожный путь
+imagine:представлять
+provide:предоставлять
+agree:соглашаться
+thus:таким образом
+gentle:нежный
+woman:женщина
+captain:капитан
+guess:предположение, угадывать
+necessary:необходимый
+sharp:острый, умный, стильный
+wing:крыло
+create:создавать
+neighbour:сосед
+wash:мыть
+bat:летучая мышь
+rather:скорее
+crowd:толпа
+corn:кукуруза
+compare:сравнивать
+poem:стих
+string:струна
+bell:колокол
+depend:зависеть
+meat:мясо
+rub:тереть
+tube:трубка, метро
+famous:известный
+dollar:доллар
+stream:поток, течь
+fear:страх, бояться
+sight:взгляд, вид, зрение
+thin:тонкий
+triangle:треугольник
+planet:планета
+hurry:торопиться, спешка
+chief:шеф
+colony:колония
+clock:часы
 mine:мой
 tie:галстук, завязывать
 enter:вход, входить
