@@ -5333,55 +5333,55 @@ his:его
     wide [ waɪd ] — широкий / повсюду
     sail [ seɪl ] — паруса / плавать
     material [ məˈtɪə.ri.əl ] — материал
-    fraction [ ˈfræk.ʃ ə n ] — доля
-    forest [ ˈfɒr.ɪst ] — лес
-    sit [ sɪt ] — сидеть
-    race [ reɪs ] — гонка / раса
-    window [ ˈwɪn.dəʊ ] — окно
-    store ( амер. ) [ stɔː r] — магазин
-    summer [ ˈsʌm.ə r] — лето
-    train [ treɪn ] — поезд
-    sleep [ sliːp ] — спать
-    prove [ pruːv ] — доказывать
-    alone [ əˈləʊn ] — один / одинокий
-    leg [ leɡ ] — нога
-    exercise [ ˈek.sə.saɪz ] — упражнение
-    wall [ wɔːl ] — стена
-    catch [ kætʃ ] — поймать
-    mount [ maʊnt ] — взбираться / монтировать
-    wish [ wɪʃ ] — желать
-    sky [ skaɪ ] — небо
-    board [ bɔːd ] — доска
-    joy [ dʒɔɪ ] — радость
-    winter [ ˈwɪn.tə r] — зима
-    somebody [ ˈsʌm.bə.di ] — кто-то
-    written [ ˈrɪt. ə n ] — написанный
-    wild [ waɪld ] — дикий
-    instrument [ ˈɪn.strə.mənt ] — инструмент
-    kept [ kept ] — сохранил
-    glass [ ɡlɑːs ] — стекло
-    grass [ ɡrɑːs ] — трава
-    cow [ kaʊ ] — корова
-    job [ dʒɒb ] — работа
-    edge [ edʒ ] — край
-    sign [ saɪn ] — подписывать / знак
-    visit [ ˈvɪz.ɪt ] — посещать
-    past [ pɑːst ] — прошлое
-    soft [ sɒft ] — мягкий
-    fun [ fʌn ] — веселый / веселье
-    bright [ braɪt ] — яркий
-    gas [ ɡæs ] — газ / бензин ( амер. )
-    weather [ ˈweð.ə r] — погода
-    month [ mʌnθ ] — месяц
-    million [ ˈmɪl.jən ] — миллион
-    bear [ beə r] — медведь / выносить (терпеть)
-    finish [ ˈfɪn.ɪʃ ] — закончить
-    happy [ ˈhæp.i ] — счастливый
-    hope [ həʊp ] — надежда / надеяться
-    flower [ flaʊə r] — цветок
-    clothes [ kləʊðz ] — одежда
-    strange [ streɪndʒ ] — странный
-    gone [ ɡɒn ] — ушедший
+fraction:доля
+forest:лес
+sit:сидеть
+race:гонка
+window:окно
+store:магазин
+summer:лето
+train:поезд
+sleep:спать
+prove:доказывать
+alone:один, одинокий
+leg:нога
+exercise:упражнение
+wall:стена
+catch:поймать
+mount:взбираться, монтировать
+wish:желать
+sky:небо
+board:доска
+joy:радость
+winter:зима
+somebody:кто-то
+written:написанный
+wild:дикий
+instrument:инструмент
+kept:сохранил
+glass:стекло
+grass:трава
+cow:корова
+job:работа
+edge:край
+sign:подписывать, знак
+visit:посещать
+past:прошлое
+soft:мягкий
+fun:веселый, веселье
+bright:яркий
+gas:газ, бензин ( амер. )
+weather:погода
+month:месяц
+million:миллион
+bear:медведь, выносить (терпеть)
+finish:закончить
+happy:счастливый
+hope:надежда, надеяться
+flower:цветок
+clothes:одежда
+strange:странный
+gone:ушедший
 trade:торговля
 melody:мелодия
 trip:поездка
