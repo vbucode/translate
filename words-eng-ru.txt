@@ -5291,48 +5291,48 @@ his:его
     egg [ eɡ ] — яйцо
     ride [ raɪd ] — ездить / поездка
     cell [ sel ] — клетка / мобильный ( амер. )
-    believe [ bɪˈliːv ] — верить
-    perhaps [ pəˈhæps ] — возможно
-    pick [ pɪk ] — выбирать
-    sudden [ ˈsʌd. ə n ] — внезапный
-    count [ kaʊnt ] — считать
-    square [ skweə r] — квадрат / площадь
-    reason [ ˈriː.z ə n ] — причина
-    length [ leŋθ ] — длина
-    represent [ ˌrep.rɪˈzent ] — представлять
-    art [ ɑːt ] — искусство
-    subject [ ˈsʌb.dʒekt ] — предмет
-    region [ ˈriː.dʒ ə n ] — регион
-    size [ saɪz ] — размер
-    vary [ ˈveə.ri ] — меняться / варьировать
-    settle [ ˈset. ə l ] — селиться
-    speak [ spiːk ] — говорить
-    weight [ weɪt ] — вес
-    general [ ˈdʒen. ə r. ə l ] — главный / общий
-    ice [ aɪs ] — лед
-    matter [ ˈmæt.ə r] — иметь значение / предмет / материя
-    circle [ ˈsɜː.k ə l ] — круг
-    pair [ peə r] — пара
-    include [ ɪnˈkluːd ] — включать в себя
-    divide [ dɪˈvaɪd ] — разделять
-    syllable [ ˈsɪl.ə.b ə l ] — слог
-    felt [ felt ] — чувствовал
-    grand [ ɡrænd ] — большой / великий
-    ball [ bɔːl ] — мяч
-    yet [ jet ] — еще
-    wave [ weɪv ] — волна
-    drop [ drɒp ] — капля / бросать
-    heart [ hɑːt ] — сердце
-    AM [ ˌ eɪ ˈem ] — до полудня
-    present [ ˈprez. ə nt ] — подарок / настоящий
-    heavy [ ˈhev.i ] — тяжелый
-    dance [ dɑːns ] — танец / танцевать
-    engine [ ˈen.dʒɪn ] — двигатель
-    position [ pəˈzɪʃ. ə n ] — позиция
-    arm [ ɑːm ] — рука
-    wide [ waɪd ] — широкий / повсюду
-    sail [ seɪl ] — паруса / плавать
-    material [ məˈtɪə.ri.əl ] — материал
+believe:верить
+perhaps:возможно
+pick:выбирать
+sudden:внезапный
+count:считать
+square:квадрат, площадь
+reason:причина
+length:длина
+represent:представлять
+art:искусство
+subject:предмет
+region:регион
+size:размер
+vary:меняться, варьировать
+settle:селиться
+speak:говорить
+weight:вес
+general:главный, общий
+ice:лед
+matter:иметь значение, предмет, материя
+circle:круг
+pair:пара
+include:включать в себя
+divide:разделять
+syllable:слог
+felt:чувствовал
+grand:большой, великий
+ball:мяч
+yet:еще
+wave:волна
+drop:капля, бросать
+heart:сердце
+AM:до полудня
+present:подарок, настоящий
+heavy:тяжелый
+dance:танец, танцевать
+engine:двигатель
+position:позиция
+arm:рука
+wide:широкий, повсюду
+sail:паруса, плавать
+material:материал
 fraction:доля
 forest:лес
 sit:сидеть
