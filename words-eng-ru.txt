@@ -4786,511 +4786,508 @@ zoo:зоопарк
 as:как
 i:я
 his:его
-    that [ ðæt ] — что / тот
-    he [ hiː ] — он
-    was [ wɒz ] — был
-    for [ fɔː r] — для
-    on [ ɒn ] — на
-    are [ ɑː r] — являются
-    with [ wɪð ] — с
-    they [ ðeɪ ] — они
-    be [ biː ] — быть
-    at [ ət ] — на
-    one [ wʌn ] — один
-    have [ hæv ] — иметь
-    this [ ðɪs ] — это
-    from [ frɒm ] — из
-    by [ baɪ ] — от
-    hot [ hɒt ] — горячий / жарко
-    word [ wɜːd ] — слово
-    but [ bʌt ] — но
-    what [ wɒt ] — что
-    some [ sʌm ] — некоторый
-    is [ ɪz ] — является
-    it [ ɪt ] — это
-    you [ juː ] — ты
-    or [ ɔː r] — или
-    had [ hæd ] — имел
-    the [ ðiː ]
-    of [ əv ] — из / о
-    to [ tuː ] — в / к
-    and [ ænd ] — и
-    a [ ə ]
-    in [ ɪn ] — в
-    we [ wiː ] — мы
-    can [ kæn ] — может
-    out [ aʊt ] — из / вне
-    other [ ˈʌð.ə r] — другой
-    were [ wɜː r] — были
-    which [ wɪtʃ ] — который
-    do [ duː ] — делать
-    their [ ðeə r] — их
-    time [ taɪm ] — время
-    if [ ɪf ] — если
-    will [wɪl] — будет
-    how [ haʊ ] — как
-    said [ sed ] — говорить
-    an [ æn ]
-    each [ iːtʃ ] — каждый
-    tell [ tel ] — говорить
-    does [ dʌz ] — делает
-    set [ set ] — задавать / комплект
-    three [ θriː ] — три
-    want [ wɒnt ] — хотеть
-    air [ eə r] — воздух
-    well [wel] — хорошо
-    also [ ˈɔːl.səʊ ] — также
-    play [ pleɪ ] — играть
-    small [ smɔːl ] — маленький
-    end [ end ] — конец
-    put [ pʊt ] — ставить
-    home [ həʊm ] — дом
-    read [ riːd ] — читать
-    hand [ hænd ] — рука
-    port [ pɔːt ] — порт
-    large [ lɑːdʒ ] — большой
-    spell [ spel ] — читать по буквам / орфография
-    add [ æd ] — добавлять
-    even [ ˈiː.v ə n ] — даже
-    land [ lænd ] — земля
-    here [ hɪə r] — здесь
-    must [ mʌst ] — должен
-    big [ bɪɡ ] — большой
-    high [ haɪ ] — высокий
-    such [ sʌtʃ ] — такой
-    follow [ ˈfɒl.əʊ ] — следовать
-    act [ ækt ] — действовать
-    why [ waɪ ] — почему
-    ask [ ɑːsk ] — спрашивать
-    men [men] — люди
-    change [ tʃeɪndʒ ] — менять
-    went [ went ] — отправился
-    light [ laɪt ] — свет / легкий
-    kind [ kaɪnd ] — добрый / разновидность
-    off [ ɒf ] — от / выключенный
-    need [ niːd ] — необходимость
-    house [ haʊs ] — дом
-    picture [ ˈpɪk.tʃə r] — картина / фото
-    try [ traɪ ] — пробовать / пытаться
-    us [ ʌs ] — нас
-    again [ əˈɡen ] — снова
-    animal [ ˈæn.ɪ.məl ] — животное
-    point [ pɔɪnt ] — точка
-    mother [ ˈmʌð.ə r] — мать
-    world [ wɜːld ] — мир
-    near [ nɪə r] — близко
-    build [ bɪld ] — строить
-    self [ self ] — себя
-    earth [ ɜːθ ] — земля
-    father [ ˈfɑː.ðə r] — отец
-    any [ ˈen.i ] — любой
-    new [ njuː ] — новый
-    work [ wɜːk ] — работа
-    part [pɑːt] — часть
-    take [ teɪk ] — брать
-    get [get] — получать
-    place [ pleɪs ] — место
-    made [ meɪd ] — сделать
-    live [ lɪv ] — жить
-    where [ weə r] — где
-    after [ ˈɑːf.tə r] — после
-    back [ bæk ] — назад
-    little [ˈlɪt.əl] — немного
-    only [ ˈəʊn.li ] — только
-    round [ raʊnd ] — круглый / вокруг
-    man [ mæn ] — мужчина
-    year [ jɪə r] — год
-    came [ keɪm ] — пришел
-    show [ ʃəʊ ] — показывать
-    every [ ˈev.ri ] — каждый
-    good [ ɡʊd ] — хороший
-    me [ miː ] — мне
-    give [ ɡɪv ] — давать
-    our [ aʊə r] — наш
-    under [ ˈʌn.də r] — под
-    name [ neɪm ] — имя
-    very [ ˈver.i ] — очень
-    through [ θruː ] — через
-    just [ dʒʌst ] — только / просто
-    form [ fɔːm ] — вид, форма / образовывать
-    sentence [ ˈsen.təns ] — предложение
-    great [ ɡreɪt ] — отличный
-    think [ θɪŋk ] — думать
-    say [ seɪ ] — говорить
-    help [help] — помогать, помощь
-    low [ ləʊ] — низкий
-    line [ laɪn ] — линия, черта
-    differ [ ˈdɪf.ə r] — отличаться
-    turn [ tɜːn ] — поворачивать
-    cause [ kɔːz ] — причина
-    much [ mʌtʃ ] — много
-    mean [miːn] — значить / подлый / средний
-    before [ bɪˈfɔː r] — до
-    move [ muːv ] — двигать
-    right [ raɪt ] — право / верный
-    boy [ bɔɪ ] — мальчик
-    old [ əʊld ] — старый
-    too [ tuː ] — тоже
-    same [ seɪm ] — также
-    she [ ʃiː ] — она
-    all [ ɔːl ] — все
-    there [ ðeə r] — там
-    when [ wen ] — когда
-    up [ ʌp ] — вверх / подниматься
-    use [ juːz ] — использовать
-    your [ jɔː r] — твой
-    way [ weɪ ] — путь
-    about [ əˈbaʊt ] — о
-    many [ ˈmen.i ] — много
-    then [ ðen ] — затем
-    them [ ðem ] — их
-    write [ raɪt ] — писать
-    would [ wʊd ] — бы / было бы
-    like [ laɪk ] — нравиться
-    so [ səʊ ] — так
-    these [ ðiːz ] — эти
-    her [ hɜː r] — ее
-    long [ lɒŋ ] — долго / длинный
-    make [ meɪk ] — делать
-    thing [ θɪŋ ] — вещь
-    see [ siː ] — видеть
-    him [ hɪm ] — его
-    two [ tuː ] — два / двое
-    has [ hæz ] — имеет
-    look [ lʊk ] — смотреть / взгляд
-    more [ mɔː r] — больше
-    day [ deɪ ] — день
-    could [ kʊd ] — мог
-    go [ ɡəʊ ] — идти
-    come [ kʌm ] — приходить
-    did [ dɪd ] — сделал
-    number [ ˈnʌm.bə r] — номер
-    sound [ saʊnd ] — звук
-    no [ nəʊ ] — нет
-    most [ məʊst ] — самый / большинство
-    people [ ˈpiː.p ə l ] — люди
-    my [ maɪ ] — мой
-    over [ ˈəʊ.və r] — над
-    know [ nəʊ ] — знать
-    water [ ˈwɔː.tə r] — вода
-    than [ ðæn ] — чем
-    call [ kɔːl ] — звонить / звонок
-    first [ ˈfɜːst ] — первый
-    who [ huː ] — кто
-    may [ meɪ ] — может
-    down [ daʊn ] — вниз
-    side [ saɪd ] — сторона
-    been [ biːn ] — был
-    now [ naʊ ] — сейчас
-    find [ faɪnd ] — найти
-    head [ hed ] — голова
-    stand [stænd] — стоять
-    own [ əʊn ] — свой / владеть
-    page [ peɪdʒ ] — страница
-    should [ ʃʊd ] — должен
-    country [ ˈkʌn.tri ] — страна
-    found [ faʊnd ] — найденный
-    answer [ ˈæn·sər ] — ответ / отвечать
-    school [ skuːl ] — школа
-    grow [ ɡrəʊ ] — расти
-    study [ ˈstʌd.i ] — изучать
-    still [ stɪl ] — все еще
-    learn [ lɜːn ] — учиться
-    plant [ plɑːnt ] — растение / сажать
-    cover [ ˈkʌv.ə r] — накрывать / обложка
-    food [ fuːd ] — еда
-    sun [ sʌn ] — солнце
-    four [ fɔː r] — четыре
-    between [ bɪˈtwiːn ] — между
-    state [ steɪt ] — состояние, государство, штат
-    keep [ kiːp ] — держать, продолжать
-    eye [ aɪ ] — глаз
-    never [ ˈnev.ə r] — никогда
-    last [ lɑːst ] — последний
-    let [ let ] — позволять
-    thought [ θɔːt ] — мысль / думал
-    city [ ˈsɪt.i ] — город
-    tree [ triː ] — дерево
-    cross [ krɒs ] — пересекать / крест
-    farm [ fɑːm ] — ферма
-    hard [ hɑːd ] — тяжелый / твердый
-    start [ stɑːt ] — начинать
-    might [ maɪt ] — может быть / мощь
-    story [ ˈstɔː.ri ] — история
-    saw [ sɔː ] — увидел / пила
-    far [ fɑː r] — далеко
-    sea [ siː ] — море
-    draw [ drɔː ] — рисовать
-    left [ left ] — лево / оставил
-    late [ leɪt ] — поздно
-    run [ rʌn ] — бежать
-    don’t [ dəʊnt ] — не
-    while [ waɪl ] — в то время, как
-    press [ pres ] — нажимать / давить
-    close [ kləʊz ] — близко / закрывать
-    night [ naɪt ] — ночь
-    real [ rɪəl ] — реальный
-    life [ laɪf ] — жизнь
-    few [ fjuː ] — несколько
-    north [ nɔːθ ] — север
-    book [ bʊk ] — книга
-    carry [ ˈkær.i ] — нести
-    took [ tʊk ] — взял
-    science [ ˈsaɪ.əns ] — наука
-    eat [ iːt ] — есть
-    room [ ruːm ] — комната
-    friend [ frend ] — друг
-    began [ bɪˈɡæn ] — началось
-    idea [ aɪˈdɪə ] — идея
-    fish [ fɪʃ ] — рыба
-    mountain [ ˈmaʊn.tɪn ] — гора
-    stop [ stɒp ] — остановка / останавливать
-    once [ wʌns ] — однажды
-    base [ beɪs ] — базовый / основывать
-    hear [ hɪə r] — слышать
-    horse [ hɔːs ] — лошадь
-    cut [ kʌt ] — резать
-    sure [ ʃɔː r] — конечно / уверен
-    watch [ wɒtʃ ] — смотреть / часы
-    colour [ ˈkʌl.ə r] — цвет
-    face [ feɪs ] — лицо
-    wood [ wʊd ] — дерево
-    main [ meɪn ] — главный
-    open [ ˈəʊ.p ə n ] — открыть
-    seem [ siːm ] — казаться
-    together [ təˈɡeð.ə r] — вместе
-    next [ nekst ] — следующий
-    white [ waɪt ] — белый
-    children [ ˈtʃɪl.drən ] — дети
-    begin [ bɪˈɡɪn ] — начинать
-    got [ ɡɒt ] — получил
-    walk [ wɔːk ] — гулять / прогулка
-    example [ ɪɡˈzɑːm.p ə l ] — пример
-    ease [ iːz ] — легкость / облегчать
-    paper [ ˈpeɪ.pə r] — бумага
-    group [ ɡruːp ] — группа
-    always [ ˈɔːl.weɪz ] — всегда
-    music [ ˈmjuː.zɪk ] — музыка
-    those [ ðəʊz ] — те
-    both [ bəʊθ ] — оба
-    mark [ mɑːk ] — отметка / отмечать
-    often [ ˈɒf. ə n ] — часто
-    letter [ ˈlet.ə r] — письмо
-    until [ ənˈtɪl ] — до тех пор
-    mile [ maɪl ] — миля
-    river [ ˈrɪv.ə r] — река
-    car [ kɑː r] — машина
-    feet [ fiːt ] — ноги
-    care [ keə r] — заботиться / уход
-    second [ ˈsek. ə nd ] — секунда
-    enough [ ɪˈnʌf ] — достаточно / довольно
-    plain [ pleɪn ] — простой
-    girl [ ɡɜːl ] — девочка
-    usual [ ˈjuː.ʒu.əl ] — обычно
-    young [ jʌŋ ] — молодой
-    ready [ ˈred.i ] — готовый
-    above [ əˈbʌv ] — выше
-    ever [ ˈev.ə r] — когда-либо
-    red [ red ] — красный
-    list [ lɪst ] — список
-    though [ ðəʊ ] — хоть
-    feel [ fiːl ] — чувствовать
-    talk [ tɔːk ] — говорить
-    bird [ bɜːd ] — птица
-    soon [ suːn ] — скоро
-    body [ ˈbɒd.i ] — тело
-    dog [ dɒɡ ] — собака
-    family [ ˈfæm. ə l.i ] — семья
-    direct [ daɪˈrekt ] — непосредственный / направлять
-    pose [ pəʊz ] — поза / позировать
-    leave [ liːv ] — покидать
-    song [ sɒŋ ] — песня
-    measure [ ˈmeʒ.ə r] — мера / измерять
-    door [ dɔː r] — дверь
-    product [ ˈprɒd.ʌkt ] — продукт
-    black [ blæk ] — черный
-    short [ ʃɔːt ] — короткий
-    numeral [ ˈnjuː.mə.rəl ] — числительное
-    class [ klɑːs ] — класс / сорт
-    wind [ wɪnd ] — ветер
-    question [ ˈkwes.tʃən ] — вопрос
-    happen [ ˈhæp. ə n ] — случаться
-    complete [ kəmˈpliːt ] — полный / завершенный
-    ship [ʃɪp] — корабль
-    area [ ˈeə.ri.ə ] — площадь / зона
-    half [ hɑːf ] — половина
-    rock [ rɒk ] — рок / камень / скала
-    order [ ˈɔː.də r] — заказ / порядок
-    fire [faɪər]— огонь
-    south [ saʊθ ] — юг
-    problem [ ˈprɒb.ləm ] — проблема
-    piece [ piːs ] — часть / кусок
-    told [ təʊld ] — говорил
-    knew [ njuː ] — знал
-    pass [ pɑːs ] — проходить / передача
-    since [ sɪns ] — с / поскольку
-    top [ tɒp ] — верх / вершина
-    whole [ həʊl ] — весь / целый
-    king [ kɪŋ ] — король
-    street [ striːt ] — улица
-    inch [ ɪntʃ ] — дюйм
-    multiply [ ˈmʌl.tɪ.plaɪ ] — умножать
-    nothing [ ˈnʌθ.ɪŋ ] — ничего
-    course [ kɔːs ] — курс / блюдо
-    stay [ steɪ ] — оставаться
-    wheel [ wiːl ] — колесо
-    full [ fʊl ] — полный
-    force [ fɔːs ] — сила / заставлять
-    blue [ bluː ] — голубой / синий / грустный
-    object [ ˈɒb.dʒɪkt ] — объект
-    decide [ dɪˈsaɪd ] — решать
-    surface [ ˈsɜː.fɪs ] — поверхность
-    deep [ diːp ] — глубоко
-    moon [ muːn ] — луна
-    island [ ˈaɪ.lənd ] — остров
-    foot [ fʊt ] — нога
-    system [ ˈsɪs.təm ] — система
-    busy [ ˈbɪz.i ] — занят
-    test [ test ] — тест / проверять
-    record [ rɪˈkɔːd ] — записывать
-    boat [ bəʊt ] — лодка
-    common [ ˈkɒm.ən ] — общий / обычный
-    gold [ ɡəʊld ] — золото
-    possible [ ˈpɒs.ə.b ə l ] — возможный
-    plane [ pleɪn ] — самолет / плоскость
-    stead [ sted ] — место
-    dry [ draɪ ] — сухой
-    wonder [ ˈwʌn.də r] — чудо / удивляться
-    laugh [ lɑːf ] — смех / смеяться
-    thousand [ ˈθaʊ.z ə nd ] — тысяча
-    ago [ əˈɡəʊ ] — тому назад
-    ran [ ræn ] — побежал
-    check [ tʃek ] — проверять
-    game [ ɡeɪm ] — игра
-    shape [ ʃeɪp ] — форма
-    equate [ ɪˈkweɪt ] — приравнивать
-    OK [ ˌəʊˈkeɪ ] — хорошо
-    miss [ mɪs ] — скучать / пропускать
-    brought [ brɔːt ] — привел
-    heat [ hiːt ] — жара, высокая температура
-    snow [ snəʊ ] — снег
-    tire [ taɪə r] — шина / утомлять
-    bring [ brɪŋ ] — приносить
-    yes [ jes ] — да
-    distant [ ˈdɪs.t ə nt ] — отдаленный
-    fill [ fɪl ] — наполнять
-    east [ iːst ] — восток
-    paint [ peɪnt ] — краска / красить
-    language [ ˈlæŋ.ɡwɪdʒ ] — язык
-    among [ əˈmʌŋ ] — среди
-    unit [ ˈjuː.nɪt ] — единица
-    power [ paʊə r] — мощность / сила
-    town [ taʊn ] — город
-    fine [ faɪn ] — отлично
-    certain [ ˈsɜː.t ə n ] — определенный
-    fly [ flaɪ ] — летать
-    fall [fɔːl] — падать / осень
-    lead [ liːd ] — вести / руководить
-    cry [ kraɪ ] — плакать
-    dark [ dɑːk ] — темный, темнота
-    machine [ məˈʃiːn ] — машина / механизм
-    note [ nəʊt ] — примечание / отмечать
-    wait [ weɪt ] — ждать
-    plan [ plæn ] — план
-    figure [ ˈfɪɡ.ə r] — цифра / фигура
-    star [ stɑː r] — звезда
-    box [ bɒks ] — коробка
-    noun [ naʊn ] — существительное
-    field [ fiːld ] — поле
-    rest [ rest ] — остальное / отдыхать
-    correct [ kəˈrekt ] — поправлять / правильный
-    able [ ˈeɪ.b ə l ] — в состоянии / способный
-    pound [ paʊnd ] — фунт
-    done [ dʌn ] — сделанный
-    beauty [ ˈbjuː.ti ] — красота
-    drive [ draɪv ] — водить
-    stood [ stʊd ] — стоял
-    contain [ kənˈteɪn ] — содержать
-    front [ frʌnt ] — перед
-    teach [tiːtʃ] — обучать
-    week [ wiːk ] — неделя
-    final [ ˈfaɪ.n ə l ] — финал / последний
-    gave [ ɡeɪv ] — дал
-    green [ ɡriːn ] — зеленый
-    oh [ əʊ ] — ох
-    quick [ kwɪk ] — быстро
-    develop [ dɪˈvel.əp ] — развивать
-    ocean [ ˈəʊ.ʃ ə n ] — океан
-    warm [ wɔːm ] — тепло
-    free [ friː ] — свободный
-    minute [ ˈmɪn.ɪt ] — минута
-    strong [ strɒŋ ] — сильный
-    special [ˈspeʃ.əl] — особый
-    mind [ maɪnd ] — разум / возражать
-    behind [ bɪˈhaɪnd ] — позади
-    clear [ klɪə r] — ясный / понятно
-    tail [ teɪl ] — хвост
-    produce [ prəˈdʒuːs ] — производить
-    fact [ fækt ] — факт
-    space [ speɪs ] — пространство / космос
-    heard [ h ɜːd ] — слышал
-    best [ best ] — лучший
-    hour [ aʊə r] — час
-    better [ ˈbet.ə r] — лучше
-    true [ truː ] — правда
-    during [ ˈdʒʊə.rɪŋ ] — в течение
-    hundred [ ˈhʌn.drəd ] — сотня
-    five [ faɪv ] — пять
-    remember [ rɪˈmem.bə r] — помнить
-    step [ step ] — шаг
-    early [ ˈɜː.li ] — ранний / рано
-    hold [ həʊld ] — держать
-    west [ west ] — запад
-    ground [ ɡraʊnd ] — земля
-    interest [ ˈɪn.trəst ] — интерес
-    reach [ riːtʃ ] — достигать
-    fast [ fɑːst ] — быстро
-    verb [ vɜːb ] — глагол
-    sing [ sɪŋ ] — петь
-    listen [ ˈlɪs. ə n ] — слушать
-    six [ sɪks ] — шесть
-    table [ ˈteɪ.b ə l ] — стол
-    travel [ ˈtræv. ə l ] — путешествовать
-    less [ les ] — меньше
-    morning [ ˈmɔː.nɪŋ ] — утро
-    ten [ ten ] — десять
-    simple [ ˈsɪm.p ə l ] — просто / простой
-    several [ ˈsev. ə r. ə l ] — несколько
-    vowel [ vaʊəl ] — гласный (звук)
-    towards [ twoʊrdz ] — к / по направлению к
-    war [ wɔː r] — война
-    lay [ leɪ ] — лежать
-    against [ əˈɡenst ] — против
-    pattern [ ˈpæt. ə n ] — узор
-    slow [ sləʊ ] — медленно / медленный
-    center [ ˈsen.tə r] — центр
-    love [ lʌv ] — любовь
-    person [ ˈpɜː.s ə n ] — человек
-    money [ ˈmʌn.i ] — деньги
-    serve [ sɜːv ] — обслуживать
-    appear [ əˈpɪə r] — появляться
-    road [ rəʊd ] — дорога
-    map [ mæp ] — карта
-    rain [ reɪn ] — дождь
-    rule [ ruːl ] — правило
-    govern [ ˈɡʌv. ə n ] — управлять
-    pull [pʊl] — тянуть
-    cold [ kəʊld ] — холодный
-    notice [ ˈnəʊ.tɪs ] — уведомление / замечать
-    voice [ vɔɪs ] — голос
-    energy [ ˈen.ə.dʒi ] — энергия
-    hunt [ hʌnt ] — охотититься
-    probable [ ˈprɒb.ə.b ə l ] — вероятный
-    bed [ bed ] — кровать
-    brother [ ˈbrʌð.ə r] — брат
-    egg [ eɡ ] — яйцо
-    ride [ raɪd ] — ездить / поездка
-    cell [ sel ] — клетка / мобильный ( амер. )
+that:что,тот
+he:он
+was:был
+for:для
+on:на
+are:являются
+with:с
+they:они
+be:быть
+at:на
+one:один
+have:иметь
+this:это
+from:из
+by:от
+hot:горячий,жарко
+word:слово
+but:но
+what:что
+some:некоторый
+is:является
+it:это
+you:ты
+or:или
+had:имел
+of:из,о
+to:в,к
+and:и
+in:в
+we:мы
+can:может
+out:из,вне
+other:другой
+were:были
+which:который
+do:делать
+their:их
+time:время
+if:если
+will:будет
+how:как
+said:говорить
+each:каждый
+tell:говорить
+does:делает
+set:задавать,комплект
+three:три
+want:хотеть
+air:воздух
+well:хорошо
+also:также
+play:играть
+small:маленький
+end:конец
+put:ставить
+home:дом
+read:читать
+hand:рука
+port:порт
+large:большой
+spell:читатьпобуквам,орфография
+add:добавлять
+even:даже
+land:земля
+here:здесь
+must:должен
+big:большой
+high:высокий
+such:такой
+follow:следовать
+act:действовать
+why:почему
+ask:спрашивать
+men:люди
+change:менять
+went:отправился
+light:свет,легкий
+kind:добрый,разновидность
+off:от,выключенный
+need:необходимость
+house:дом
+picture:картина,фото
+try:пробовать,пытаться
+us:нас
+again:снова
+animal:животное
+point:точка
+mother:мать
+world:мир
+near:близко
+build:строить
+self:себя
+earth:земля
+father:отец
+any:любой
+new:новый
+work:работа
+part:часть
+take:брать
+get:получать
+place:место
+made:сделать
+live:жить
+where:где
+after:после
+back:назад
+little:немного
+only:только
+round:круглый,вокруг
+man:мужчина
+year:год
+came:пришел
+show:показывать
+every:каждый
+good:хороший
+me:мне
+give:давать
+our:наш
+under:под
+name:имя
+very:очень
+through:через
+just:только,просто
+form:вид,форма,образовывать
+sentence:предложение
+great:отличный
+think:думать
+say:говорить
+help:помогать,помощь
+low:низкий
+line:линия,черта
+differ:отличаться
+turn:поворачивать
+cause:причина
+much:много
+mean:значить,подлый,средний
+before:до
+move:двигать
+right:право,верный
+boy:мальчик
+old:старый
+too:тоже
+same:также
+she:она
+all:все
+there:там
+when:когда
+up:вверх,подниматься
+use:использовать
+your:твой
+way:путь
+about:о
+many:много
+then:затем
+them:их
+write:писать
+would:бы,былобы
+like:нравиться
+so:так
+these:эти
+her:ее
+long:долго,длинный
+make:делать
+thing:вещь
+see:видеть
+him:его
+two:два,двое
+has:имеет
+look:смотреть,взгляд
+more:больше
+day:день
+could:мог
+go:идти
+come:приходить
+did:сделал
+number:номер
+sound:звук
+no:нет
+most:самый,большинство
+people:люди
+my:мой
+over:над
+know:знать
+water:вода
+than:чем
+call:звонить,звонок
+first:первый
+who:кто
+may:может
+down:вниз
+side:сторона
+been:был
+now:сейчас
+find:найти
+head:голова
+stand:стоять
+own:свой,владеть
+page:страница
+should:должен
+country:страна
+found:найденный
+answer:ответ,отвечать
+school:школа
+grow:расти
+study:изучать
+still:всееще
+learn:учиться
+plant:растение,сажать
+cover:накрывать,обложка
+food:еда
+sun:солнце
+four:четыре
+between:между
+state:состояние,государство,штат
+keep:держать,продолжать
+eye:глаз
+never:никогда
+last:последний
+let:позволять
+thought:мысль,думал
+city:город
+tree:дерево
+cross:пересекать,крест
+farm:ферма
+hard:тяжелый,твердый
+start:начинать
+might:можетбыть,мощь
+story:история
+saw:увидел,пила
+far:далеко
+sea:море
+draw:рисовать
+left:лево,оставил
+late:поздно
+run:бежать
+don’t:не
+while:втовремя,как
+press:нажимать,давить
+close:близко,закрывать
+night:ночь
+real:реальный
+life:жизнь
+few:несколько
+north:север
+book:книга
+carry:нести
+took:взял
+science:наука
+eat:есть
+room:комната
+friend:друг
+began:началось
+idea:идея
+fish:рыба
+mountain:гора
+stop:остановка,останавливать
+once:однажды
+base:базовый,основывать
+hear:слышать
+horse:лошадь
+cut:резать
+sure:конечно,уверен
+watch:смотреть,часы
+colour:цвет
+face:лицо
+wood:дерево
+main:главный
+open:открыть
+seem:казаться
+together:вместе
+next:следующий
+white:белый
+children:дети
+begin:начинать
+got:получил
+walk:гулять,прогулка
+example:пример
+ease:легкость,облегчать
+paper:бумага
+group:группа
+always:всегда
+music:музыка
+those:те
+both:оба
+mark:отметка,отмечать
+often:часто
+letter:письмо
+until:дотехпор
+mile:миля
+river:река
+car:машина
+feet:ноги
+care:заботиться,уход
+second:секунда
+enough:достаточно,довольно
+plain:простой
+girl:девочка
+usual:обычно
+young:молодой
+ready:готовый
+above:выше
+ever:когда-либо
+red:красный
+list:список
+though:хоть
+feel:чувствовать
+talk:говорить
+bird:птица
+soon:скоро
+body:тело
+dog:собака
+family:семья
+direct:непосредственный,направлять
+pose:поза,позировать
+leave:покидать
+song:песня
+measure:мера,измерять
+door:дверь
+product:продукт
+black:черный
+short:короткий
+numeral:числительное
+class:класс,сорт
+wind:ветер
+question:вопрос
+happen:случаться
+complete:полный,завершенный
+ship:корабль
+area:площадь,зона
+half:половина
+rock:рок,камень,скала
+order:заказ,порядок
+fire:огонь
+south:юг
+problem:проблема
+piece:часть,кусок
+told:говорил
+knew:знал
+pass:проходить,передача
+since:с,поскольку
+top:верх,вершина
+whole:весь,целый
+king:король
+street:улица
+inch:дюйм
+multiply:умножать
+nothing:ничего
+course:курс,блюдо
+stay:оставаться
+wheel:колесо
+full:полный
+force:сила,заставлять
+blue:голубой,синий,грустный
+object:объект
+decide:решать
+surface:поверхность
+deep:глубоко
+moon:луна
+island:остров
+foot:нога
+system:система
+busy:занят
+test:тест,проверять
+record:записывать
+boat:лодка
+common:общий,обычный
+gold:золото
+possible:возможный
+plane:самолет,плоскость
+stead:место
+dry:сухой
+wonder:чудо,удивляться
+laugh:смех,смеяться
+thousand:тысяча
+ago:томуназад
+ran:побежал
+check:проверять
+game:игра
+shape:форма
+equate:приравнивать
+OK:хорошо
+miss:скучать,пропускать
+brought:привел
+heat:жара,высокаятемпература
+snow:снег
+tire:шина,утомлять
+bring:приносить
+yes:да
+distant:отдаленный
+fill:наполнять
+east:восток
+paint:краска,красить
+language:язык
+among:среди
+unit:единица
+power:мощность,сила
+town:город
+fine:отлично
+certain:определенный
+fly:летать
+fall:падать,осень
+lead:вести,руководить
+cry:плакать
+dark:темный,темнота
+machine:машина,механизм
+note:примечание,отмечать
+wait:ждать
+plan:план
+figure:цифра,фигура
+star:звезда
+box:коробка
+noun:существительное
+field:поле
+rest:остальное,отдыхать
+correct:поправлять,правильный
+able:всостоянии,способный
+pound:фунт
+done:сделанный
+beauty:красота
+drive:водить
+stood:стоял
+contain:содержать
+front:перед
+teach:обучать
+week:неделя
+final:финал,последний
+gave:дал
+green:зеленый
+oh:ох
+quick:быстро
+develop:развивать
+ocean:океан
+warm:тепло
+free:свободный
+minute:минута
+strong:сильный
+special:особый
+mind:разум,возражать
+behind:позади
+clear:ясный,понятно
+tail:хвост
+produce:производить
+fact:факт
+space:пространство,космос
+heard:слышал
+best:лучший
+hour:час
+better:лучше
+true:правда
+during:втечение
+hundred:сотня
+five:пять
+remember:помнить
+step:шаг
+early:ранний,рано
+hold:держать
+west:запад
+ground:земля
+interest:интерес
+reach:достигать
+fast:быстро
+verb:глагол
+sing:петь
+listen:слушать
+six:шесть
+table:стол
+travel:путешествовать
+less:меньше
+morning:утро
+ten:десять
+simple:просто,простой
+several:несколько
+vowel:гласный
+towards:к,понаправлениюк
+war:война
+lay:лежать
+against:против
+pattern:узор
+slow:медленно,медленный
+center:центр
+love:любовь
+person:человек
+money:деньги
+serve:обслуживать
+appear:появляться
+road:дорога
+map:карта
+rain:дождь
+rule:правило
+govern:управлять
+pull:тянуть
+cold:холодный
+notice:уведомление,замечать
+voice:голос
+energy:энергия
+hunt:охотититься
+probable:вероятный
+bed:кровать
+brother:брат
+egg:яйцо
+ride:ездить, поездка
+cell:клетка, мобильный
 believe:верить
 perhaps:возможно
 pick:выбирать
