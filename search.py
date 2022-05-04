@@ -12,9 +12,11 @@ with open("words-eng-ru.txt", "r") as file:
             left, right, *res = line.split(":")
             llist.append(left)
             rlist.append(right.replace("\n", ""))
+
 class Search:
-    def __init__(self, text):
+    def __init__(self, text, unknown = "0"):
         self.text = text
+        self.unknown = unknown
     def load(self):
         var = 0
         for i in self.text:
@@ -39,14 +41,19 @@ class Search:
                             for k in clearlist:
                                 if k == self.text[self.text.index(i) + count2]:
                                     count2 += 1
-                                else:
-                                    tlist.append("out")
                             if count2 == len(clearlist):
                                 tlist.append(rlist[llist.index(j)])
                                 var = len(clearlist) - 1
+                            else:
+                                count += 1
+                                continue
                         except IndexError:
-                            tlist.append("out")
+                            count += 1
+                            continue
                         break
                     elif count == len(llist):
                         tlist.append("out")
+                        if self.unknown == "1":
+                            with open("unknown.txt", "a") as file2:
+                                file2.write("{}\n".format(i))
         return tlist
