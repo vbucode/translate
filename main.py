@@ -1,6 +1,8 @@
 from search import Search
 from words import Words
 
+s = Search(unknown = "1")
+
 def main():
     inp = input("translate: ")
     if inp == "exit":
@@ -8,10 +10,10 @@ def main():
     getw(inp)
 
 def getw(xarg):
+    global s
     w = Words(xarg)
     wl = w.load()
-    s = Search(wl)
-    sl = s.load()
+    sl = s.load(wl)
     varstr = " ".join(sl)
     print("translated text: ", varstr)
     sl.clear()

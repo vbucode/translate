@@ -14,10 +14,10 @@ with open("words-eng-ru.txt", "r") as file:
             rlist.append(right.replace("\n", ""))
 
 class Search:
-    def __init__(self, text, unknown = "0"):
+    def __init__(self, unknown = "0"):
+        self.unknown = unknown  
+    def load(self, text):
         self.text = text
-        self.unknown = unknown
-    def load(self):
         var = 0
         for i in self.text:
             count = 0
