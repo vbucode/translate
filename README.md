@@ -1,8 +1,8 @@
-# dictionary
+# translate
 
 support russian language
 
-database have about 13700 words
+dictionary have about 13700 words
 
 for translate sentences - words not translated will be "out"
 
