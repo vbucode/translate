@@ -1,7 +1,7 @@
 from search import Search
 from words import Words
 
-s = Search(unknown = "1")
+s = Search()
 
 def main():
     inp = input("translate: ")

@@ -14,8 +14,8 @@ with open("words-eng-ru.txt", "r") as file:
             rlist.append(right.replace("\n", ""))
 
 class Search:
-    def __init__(self, unknown = "0"):
-        self.unknown = unknown  
+    def __init__(self):
+        pass 
     def load(self, text):
         self.text = text
         var = 0
@@ -53,7 +53,4 @@ class Search:
                         break
                     elif count == len(llist):
                         tlist.append("out")
-                        if self.unknown == "1":
-                            with open("unknown.txt", "a") as file2:
-                                file2.write("{}\n".format(i))
         return tlist
