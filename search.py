@@ -1,6 +1,5 @@
 import re
 
-tlist = []
 llist = []
 rlist = []
 
@@ -19,6 +18,7 @@ class Search:
     def load(self, text):
         self.text = text
         var = 0
+        tlist = []
         for i in self.text:
             count = 0
             while var > 0:

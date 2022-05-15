@@ -16,7 +16,6 @@ def getw(xarg):
     sl = s.load(wl)
     varstr = " ".join(sl)
     print("translated text: ", varstr)
-    sl.clear()
 
 while True:
     main()
