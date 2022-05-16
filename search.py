@@ -9,7 +9,7 @@ with open("words-eng-ru.txt", "r") as file:
             continue
         else:
             left, right, *res = line.split(":")
-            llist.append(left.lower())
+            llist.append(left)
             rlist.append(right.replace("\n", ""))
 
 class Search:

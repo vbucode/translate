@@ -21,7 +21,7 @@ accelerate:ускорять
 accept:принять
 access:доступ
 accessory:принадлежность, аксессуар
-accident:случайность, происшествие, напр.  ДТП
+accident:случайность, происшествие, напр.  дтп
 acclaim:приветствовать, аплодировать
 accommodate:размещать, вмещать
 accompany:сопровождать
@@ -744,7 +744,7 @@ chop up:порезать (на кусочки)
 chord:аккорд
 chore:скучная неприятная работа
 chorus:припев
-Christmas:рождество
+christmas:рождество
 chuck:бросать (небрежно)
 chuckle:посмеиваться
 chunk:кусок
@@ -863,7 +863,7 @@ comfort:утешать, утешение
 commemorate:отметить, почтить
 commence:начинать
 commend:высоко оценивать
-commercial:реклама (на ТВ)
+commercial:реклама (на тв)
 commission:поручение, полномочие
 commit:совершить (напр. ошибку)
 commitment:приверженность, обязательство
@@ -1401,11 +1401,11 @@ early:рано, ранний
 earn:зарабатывать
 earnest:серьёзный, ревностный
 earring:серьга
-earth:Земля
+earth:земля
 earthquake (quake):землетрясение
 ease:лёгкость, облегчать
 east:восток
-Easter:Пасха
+easter:пасха
 eat out:есть не дома
 eat up:съесть полностью
 echo:эхо, отголосок, отражаться
@@ -2016,7 +2016,7 @@ gust:порыв
 gut:кишка
 gutter:желоб, сток
 gym:спортзал
-Gypsy:цыган, цыганский
+gypsy:цыган, цыганский
 habit:привычка, обычай
 habitat:среда, место обитания
 hack:рубить, кромсать
@@ -2192,7 +2192,7 @@ hustle:нечестно добыть (амер.)
 hut:хижина, лачуга, барак
 hydrogen:водород
 hypocrite:лицемер
-ID:удостоверение личности
+id:удостоверение личности
 idle:праздный, бездействующий
 ignite:воспламеняться
 ignorant:невежественный
@@ -2351,7 +2351,7 @@ jeopardy:опасность (серьёзная)
 jerk:дёргать, резкое движение, придурок
 jet:струя
 jet:реактивный двигатель/самолёт
-Jew:еврей
+jew:еврей
 jewel:драгоценности
 jingle:звенеть, звон
 jog:бегать трусцой
@@ -2780,7 +2780,7 @@ murky:мутный, тёмный
 murmur:шум, ропот, журчание
 muscle:мышца
 mushroom:гриб
-Muslim:мусульманин, мусульманский
+muslim:мусульманин, мусульманский
 mustache:усы
 moustache:усы
 mustard:горчица
@@ -4476,7 +4476,7 @@ trust:доверять
 try on:примерить
 try out:испытать
 tub:ванна, бадья
-tube:тюбик, труба,метро (в Лондоне)
+tube:тюбик, труба,метро (в лондоне)
 tuck:подоткнуть, заправить и т. д.
 tug:тянуть, рывок
 tuition:обучение, плата за обучение
@@ -5166,7 +5166,7 @@ check:проверять
 game:игра
 shape:форма
 equate:приравнивать
-OK:хорошо
+ok:хорошо
 miss:скучать,пропускать
 brought:привел
 heat:жара,высокаятемпература
@@ -5320,7 +5320,7 @@ yet:еще
 wave:волна
 drop:капля, бросать
 heart:сердце
-AM:до полудня
+am:до полудня
 present:подарок, настоящий
 heavy:тяжелый
 dance:танец, танцевать
@@ -6056,7 +6056,7 @@ squirrel:l ]
 ведро:sweep
 пловец:tube
 труба :mask
-маска:TV
+маска:tv
 телевизор, телевидение:speaker
 оратор:record
 запись, пластинка, отчет, рекорд:headphones
@@ -6317,7 +6317,7 @@ short:короткий, слабый, внезапно
 slim:стройный
 thin:тонкий, худощавый
 fat:жирный
-Bold:смелый 
+bold:смелый 
 moustache:усы
 handsome:красивый
 swift:быстрый 
@@ -6354,7 +6354,7 @@ suitcase:u
 обновленный :warehouse
 склад, пакгауз:check
 проверять, регистрировать:remain
-оставаться:China
+оставаться:china
 фарфор:bronze
 подающий:table
 стол, таблица, расписание:napkin
@@ -6385,7 +6385,7 @@ suitcase:u
 курица:kid
 ребенок , обманывать :secretary
 секретарь:manager
-управляющий:OK
+управляющий:ok
 конверт:employee
 служащий, работник:employer
 наниматель:typewriter
@@ -6420,7 +6420,7 @@ suitcase:u
 уважение, уважать:faith
 вера:pinching
 узнавать, узнать:coral
-коралл :A
+коралл :a
 неопределенный артикль:shark
 акула:abandon
 отказываться, покидать, прекращать:ability
@@ -6441,7 +6441,7 @@ suitcase:u
 счет, оценка, причина:across
 через:retain
 акт, дело, действовать:activity
-деятельность, активность:Actually
+деятельность, активность:actually
 фактически, в настоящее время:add
 добавлять, прибавлять:address
 адрес, обращение:adjust
@@ -6468,7 +6468,7 @@ cовет:affair
 воздушный, авиационный, проветривать:airport
 аэропорт:alarm
 тревога, тревожить :alert
-бдительный, проворный:Alive
+бдительный, проворный:alive
 живой:alley
 аллея, переулок:allow
 разрешать, разрешить:almost
@@ -6496,7 +6496,7 @@ cовет:affair
 солнце:moon
 луна:planet
 планета:mercury
-ртуть:Venus
+ртуть:venus
 венера :earth
 земля:met
 дракон ):fairy
@@ -6531,7 +6531,7 @@ cовет:affair
 воск, восковой:cream
 сливки, крем:vote
 голос , голосование, голосовать:plot
-заговор:Obviously
+заговор:obviously
 очевидно:repel
 отталкивать, внушать отвращение:sufficient
 достаточный:dirty
@@ -6649,7 +6649,7 @@ creation:n ]
 писать или произносить  по буквам:spelling
 орфография, правописание:article
 статья, предмет, изделие:word
-слово, обещание:Sentence
+слово, обещание:sentence
 предложение:recorder
 фраза:syllable
 слог:subject
@@ -6674,7 +6674,7 @@ creation:n ]
 слабый:dizzy
 головокружительный:twist
 вить, крутить, скручивать:burn
-гореть, жечь, сжигать:Bruise
+гореть, жечь, сжигать:bruise
 ушибать, синяк, ушиб:medicine
 медицина, лекарство:stitch
 стежок, петля , шить:drug
@@ -6853,7 +6853,7 @@ fair:любезно, хорошо, справедливый
 offensive:наступление
 appalling:ужасный, плачевный
 dwarf:карлик, гном  
-elf:Эльф 
+elf:эльф 
 dormitory:спальня
 shelter:приют, убежище
 business:дело, бизнес, деловой
@@ -6886,8 +6886,8 @@ hot:горячий
 narrow:узкий
 wide:широкий
 alas:увы 
-Ginny: 
-гинни :Hedwig
+ginny: 
+гинни :hedwig
  :злой, раздражительный 
 shape:форма
 expressive:выразительный
@@ -7075,7 +7075,7 @@ recent:nt ]
 тайник :dove
 жаворонок:falcon
 сокол:heron
-Germany:германия 
+germany:германия 
 abominable:отвратительный, противный
 extension:расширение
 design:проектировать, спроектировать
@@ -7093,7 +7093,7 @@ existence:ns ]
 богатство, изобилие:likely
 провозглашать:advertise
 помещать объявление, рекламировать:data
-данные, факты:Music
+данные, факты:music
 музыка:yes
 да:no
 нет, никакой:please
@@ -7129,11 +7129,11 @@ slope:склон, наклон, гора для катания
 nostrils:ноздри 
 teeth:зубы
 whiskers:бакенбарды, усы 
-Eugene:Юджин 
-Paul:пол 
+eugene:юджин 
+paul:пол 
 peter:питер 
-Ted:раскидывать
-Nat: 
+ted:раскидывать
+nat: 
 нат :noble
 either:или
 wise:мудрый
@@ -7262,7 +7262,7 @@ threw:бросал
 state:государство, состояние
 copyright:авторское право
 masterpiece:шедевр
-Probably:вероятно (
+probably:вероятно (
 maintenance:поддержание
 initially:вначале
 quote:цитировать
@@ -7363,8 +7363,8 @@ anniversary:ri ]
 отражать, размышлять:deadlock
 тупик, безвыходное положение:prompt
 проворный, быстрый:escape
-избежать, избегать:James
-джеймс :Luke
+избежать, избегать:james
+джеймс :luke
 лук :plunge
 нырять:obvious
 очевидный:excite
@@ -7373,7 +7373,7 @@ anniversary:ri ]
 дразнить, задира:whip
 кнут, хлыст, хлестать, сечь, взбивать :resolution
 решение, резолюция, решимость:anew
-снова, заново:Exercise
+снова, заново:exercise
 упражнение:adapt
 приспособить, переделать:arch
 арка, дуга:traffic
@@ -7652,12 +7652,12 @@ persistent:nt ]
 шутка, веселье:heap
 куча:just
 только, всего лишь, справедливый:lately
-за последнее время:Yet
+за последнее время:yet
 однако, еще:done
 сделанный :been
 быть :eminent
 выдающийся:satisfy
-ясный:Coward
+ясный:coward
 трус:tray
 поднос:omit
 опускать, пропускать, упускать:magician
@@ -7689,7 +7689,7 @@ persistent:nt ]
 двусмысленный:scarce
 редкий, едва :hasten
 торопить:impediment
-препятствие:Miracle
+препятствие:miracle
 баран:adhere
 прилипать, приставать  , приклеиваться, хвататься:parcel
 пакет:fairly
@@ -7947,18 +7947,18 @@ spine:позвоночный столб
 male:мужчина, самец
 men:мужчины 
 women:женщины 
-January:январь
-February:февраль
-March:маршировать
-April:апрель
+january:январь
+february:февраль
+march:маршировать
+april:апрель
 may:май
-June:июнь
-July:июль
-August:август
-September:сентябрь
-October:октябрь
-November:ноябрь
-December:декабрь
+june:июнь
+july:июль
+august:август
+september:сентябрь
+october:октябрь
+november:ноябрь
+december:декабрь
 necessarily:обязательно
 exactly:точно, именно
 quiet:тихий, спокойный
@@ -8088,14 +8088,14 @@ reference:ns ]
 испуганный :subsequently
 впоследствии:valid
 правильный:boast
-египет :England
-англия:France
-франция:Italy
-италия :English
-английский язык, английский:French
-французский:Greek
-грек :Italian
-итальянец :Mexican
+египет :england
+англия:france
+франция:italy
+италия :english
+английский язык, английский:french
+французский:greek
+грек :italian
+итальянец :mexican
 мексиканец :polish
 лак:flat
 квартира, плоский:hall
@@ -8136,7 +8136,7 @@ dictionary:nri ]
 расти:rising
 возрастающий:informed
 могила, серьезный, важный:goodbye
-прощание:Hi
+прощание:hi
 привет:number
 номер:job
 работа:right
@@ -8178,9 +8178,9 @@ enable:давать возможность, делать возможным
 weight:вес, тяжесть, груз
 probability:вероятность
 ailing:больной
-additions:Дополнения
+additions:дополнения
 disposal:вручение, право распоряжаться
-I:я
+i:я
 he:он
 she:она
 this:этот, это
@@ -8211,13 +8211,13 @@ obligation:n ]
 деньги:service
 сервис, обслуживание:time
 время:world
-мир, свет:Monday
-понедельник:Tuesday
-вторник:Wednesday
-среда:Thursday
-четверг:Friday
-пятница:Saturday
-суббота:Sunday
+мир, свет:monday
+понедельник:tuesday
+вторник:wednesday
+среда:thursday
+четверг:friday
+пятница:saturday
+суббота:sunday
 воскресенье:color
 цвет :sex
 пол:adult
@@ -8227,7 +8227,7 @@ obligation:n ]
 фамилия:postcard
 почтовая открытка:camera
 фотоаппарат:stamp
-марка, печать, штемпелевать:Russia
+марка, печать, штемпелевать:russia
 россия:horrible
 ужасный:young
 молодой:we
@@ -8487,7 +8487,7 @@ interference:rəns ]
 зевать, зевота:loss
 потеря, утрата:accuracy
 точность, аккуратность:error
-ошибка:Art
+ошибка:art
 обман, фальшивка:component
 компонент:somehow
 как-нибудь, так или иначе:combine
@@ -8554,7 +8554,7 @@ interpret:интерпретировать, переводить
 mark:норма, состояние, оценка, отметка
 recite:рассказывать, перечислять
 survey:осмотр
-Review:обзор, смотр 
+review:обзор, смотр 
 verify:проверять, подтверждать
 skim:просматривать, скользить
 clothing:одежда, обмундирование
@@ -8591,7 +8591,7 @@ cartoon:мультфильм
 construct:строить,создавать
 everywhere:всюду, везде
 sledge:ехать на санях
-Couple:пара
+couple:пара
 cheeky:развязный
 reserved:заказал, заказанный 
 saddle:седло, седлать
@@ -8639,7 +8639,7 @@ unkind:недобрый
 nice:хороший, чудесный, приятный
 unpleasant:nt ]
 неприятный:insufficient
-несчастный:Holes
+несчастный:holes
 отверстия :security
 безопасность:sir
 объявление, сообщение:shield
@@ -8648,7 +8648,7 @@ unpleasant:nt ]
 дротик, копье:armour
 броня:officer
 служащий, офицер:correct
-исправлять, правильный:Pacific
+исправлять, правильный:pacific
 мирный:disturb
 нарушать, беспокоить:soon
 скоро, рано:petition
@@ -8867,7 +8867,7 @@ loaf:безделье
 stick:палка, приставать
 tub:кадка, лохань, ушат
 snowman:снежная баба
-Christmas:рождество
+christmas:рождество
 export:экспорт, экспортировать
 manufacture:производство, производить
 destination:место назначения
@@ -8976,7 +8976,7 @@ rejection:n ]
 подставить :queer
 странный, эксцентричный:joint
 совместный, объединенный:imperative
-повелительное наклонение :Pathetic
+повелительное наклонение :pathetic
 покорный, безропотный:force
 сила:suffocate
 душить, задыхаться:thrill
@@ -9073,7 +9073,7 @@ repair:ремонтировать, ремонт, починка
 paint:красить, краска
 clean:чистить, чистый
 resort:обращение, обращаться
-IS:есть 
+is:есть 
 including:включая
 alteration:изменение, перемена
 discharge:разряжать
@@ -9083,9 +9083,9 @@ movies:кино, фильмы
 flight:полет
 blond:белокурый
 blonde:блондин
-Bible:библия
+bible:библия
 conquer:завоевывать, завоевать
-Same:тот же, так же
+same:тот же, так же
 mix:смешивать, мешать
 desert:пустыня
 tame:приручать, приручить, прирученный
@@ -9140,7 +9140,7 @@ awfully:li ]
 золотой, золотистый:manage
 справляться, ухитряться, управлять:ashamed
 пристыженный :inhabitants
-Жители :grim
+жители :grim
 жестокий, свирепый, мрачный:wear
 одежда, носить, быть одетым:whirl
 вихрь:merely
@@ -9340,8 +9340,8 @@ glory:слава
 slave:раб
 wonderfully:чудесно
 continent:континент
-Europe:европа
-Asia:азия 
+europe:европа
+asia:азия 
 equator:экватор
 north:север
 west:запад
@@ -9438,7 +9438,7 @@ presently:ntli ]
 раса, гонка:situated
 расположенный:uneasy
 встревоженный, неловкий:unfinished
-незаконченный:Whatever
+незаконченный:whatever
 что бы ни:wreck
 крушение:savage
 дикарь:steer
@@ -9538,7 +9538,7 @@ undress:раздеваться
 clothe:одевать
 only:только, единственный
 pretty:хороший, значительный
-Nightmare:кошмар
+nightmare:кошмар
 very:очень, тот самый
 creature:творение, создание
 kindly:добрый, добродушный, ласково, любезно
@@ -9553,7 +9553,7 @@ yours:ваш, ваши, твой, твои
 sew:шить
 fitting:примерка
 fashionable:модный
-Dummy:манекен, макет
+dummy:манекен, макет
 property:собственность, имущество
 hardly:едва 
 naturally:естественно
@@ -9565,7 +9565,7 @@ theatre:театр
 cloth:ткань
 felt:чувствовал 
 flannel:фланель
-jean:Хлопчатобумажная ткань 
+jean:хлопчатобумажная ткань 
 railway:железная дорога
 station:станция, место, размещать
 entrance:вход
@@ -9648,7 +9648,7 @@ thrilled:возбуждённый
 fault:вина, недостаток, ошибка
 innocence:невинность, невиновность
 regularly:регулярно
-Easter:пасха
+easter:пасха
 lent:одолжил, дал в долг 
 priest:священник
 intrude:вторгаться, вмешиваться, навязываться
@@ -9675,7 +9675,7 @@ jumble:толкаться
 irresistible:непреодолимый
 whom:кому, кого
 elevate:поднимать, возвышать
-Immortal:бессмертный
+immortal:бессмертный
 inconsistent:непоследовательный
 uneasiness:тревога, неловкость
 unpredictable:непредсказуемый
@@ -9983,7 +9983,7 @@ eligible:подходящий
 buzz:жужжать, гудеть, жужжание, гул
 scout:разведчик
 useless:бесполезный
-rudimentary:Элементарный 
+rudimentary:элементарный 
 lastly:наконец 
 extensive:обширный
 instantly:немедленно
@@ -10022,7 +10022,7 @@ subscriber:подписчик
 representative:представитель
 haze:легкий туман 
 behalf:защита 
-desired:Желательный 
+desired:желательный 
 corrupt:испорченный, развращенный, продажный
 scoundrel:негодяй
 cemetery:кладбище
@@ -10496,7 +10496,7 @@ perfection:совершенство
 furnace:печь, топка, горн
 outdoor:на открытом воздухе
 sickly:болезненный, нездоровый, тошнотворный
-History:история
+history:история
 movie:кино, фильм
 colleague:коллега
 fantastic:фантастический
@@ -10543,7 +10543,7 @@ suspicion:n ]
 хлопать:better
 лучше:chamber
 палата:laid
-происходил, совершался :Constantly
+происходил, совершался :constantly
 постоянно:cafe
 кафе:monument
 памятник :remembrance
@@ -10598,7 +10598,7 @@ funeral:похороны, похоронный
 ton:тонна
 pears:груши 
 plains:равнины 
-hills:Холмы 
+hills:холмы 
 deserts:заслуги
 tore:рвал 
 meant:означаемый, подразумеваемый 
@@ -10668,7 +10668,7 @@ vigorously:rəslɪ ]
 дверной проем ):presumably
 возможно:vicinity
 окрестности, соседство, близость:eerie
-Жуткий:widely
+жуткий:widely
 широко:gurgle
 бульканье:asterisk
 звездочка:composed
@@ -10866,9 +10866,9 @@ references:nsiz ]
 пожелания :yielding
 выдающий:effective
 действующий, успешный:explode
-взрывать, подрывать:Biology
+взрывать, подрывать:biology
 биология:chemistry
-химия:Literature
+химия:literature
 rəʧə ]:литература
 alphabet:алфавит, азбука
 translation:перевод
@@ -10882,7 +10882,7 @@ diet:диета
 occurs:происходит 
 divided:разделенный 
 kids:дети 
-Letting:разрешение
+letting:разрешение
 longer:длиннее 
 obtained:полученный
 principle:принцип
@@ -10917,7 +10917,7 @@ ward:опека
 blush:краснеть; краска стыда, смущения
 alias:псевдоним 
 gave:дал 
-oh:O!
+oh:o!
 knew:знал 
 thinking:размышление
 lever:рычаг
@@ -11153,7 +11153,7 @@ rowing:гребля, выговор
 repetition:повторение
 electronic:электронный
 mortal:смертный, смертельный 
-absorption:Поглощение
+absorption:поглощение
 ruins:руины 
 trail:след 
 volcano:вулкан
@@ -11262,7 +11262,7 @@ torn:оборванный
 fishy:подозрительный, сомнительный
 rational:nəl ]
 рациональный:sake
-ради, для:Chevy
+ради, для:chevy
 охота, погоня, гнаться :savagely
 свирепо, дико:brigade
 бригада:cauldron
@@ -11343,7 +11343,7 @@ scene:действие, картина, сцена
 destroyed:разрушенный 
 bitterly:горько, сильно
 salvation:спасение
-Jew:еврей 
+jew:еврей 
 prayer:молитва, просьба
 childhood:детство
 discussion:беседа
@@ -11461,7 +11461,7 @@ destruction:n ]
 район, область:funnel
 воронка, труба :padlock
 висячий замок:sufficiently
-достаточно:German
+достаточно:german
 немец :secure
 страховать:compromise
 компромисс:intended
@@ -11479,7 +11479,7 @@ destruction:n ]
 урна:dearest
 дорогой  :hart
 олень:lord
-лорд:Britain
+лорд:britain
 британия:written
 письменный, написанный:words
 слова :devil
@@ -11684,11 +11684,11 @@ doing:iŋ ]
 красота, косметический:beginning
 начало:blob
 капля, комочек :books
-книги :British
+книги :british
 британский:calling
 звонящий :cannot
 не уметь :card
-карточка:Chris
+карточка:chris
 clink:звенеть, звон
 coax:уговаривать, задабривать
 comfort:удобство, утешение, утешать
@@ -11704,7 +11704,7 @@ convalesce:
 холоднее :cosmetic
 косметический:created
 созданный :cultivate
-обрабатывать:David
+обрабатывать:david
 days:дни 
 declared:объявленный 
 decoy:западня, приманка; заманивать в ловушку
@@ -11746,7 +11746,7 @@ hell:черт
 helped: 
 помогал :illusion
 удерживание, держащий :hours
-часы :Shoved
+часы :shoved
 человеческий:humor
 юмор:hundreds
 сотни :hybrid
@@ -11774,7 +11774,7 @@ laws:
 жил, живший :living
 средства к существованию, жизнь:looking
 смотрящий :loved
-любил :Lucy
+любил :lucy
 matters:дела, материалы 
 mayor:мэр
 merciful:милосердный 
@@ -11784,7 +11784,7 @@ miniaturization:
 миниатюризация :minutes
 минуты :mischief
 зло, беда:morsel
-кусочек:Morton
+кусочек:morton
 movements:движения 
 mural:стенная живопись, фреска
 nation:нация, народ
@@ -11799,7 +11799,7 @@ opened:
 парад:parts
 части :pat
 хлопок:persons
-Philadelphia: 
+philadelphia: 
 филадельфия :pitiful
 жалкий, ничтожный:plainly
 явно  :plans
@@ -11816,7 +11816,7 @@ punctual:пунктуальный, аккуратный
 questions:вопросы 
 raised:рельефный
 reaction:n ]
-реакция:Refused
+реакция:refused
 отказался :registration
 регистрация:mutiny
 регулярный:religious
@@ -11825,10 +11825,10 @@ remiss:небрежный, вялый
 removed:удалённый 
 rhythm:ритм
 robot:робот 
-Roman:католик 
+roman:католик 
 safeguard:гарантия
 salute:приветствовать, салют
-Sam:сэм 
+sam:сэм 
 saying:говорящий 
 seeing:видящий 
 shady:тенистый, сомнительный, темный
@@ -11870,13 +11870,13 @@ wad:прокладывать
 walked:гулял 
 worthy:достойный
 yonder:вон тот 
-ABC:алфавит, азбука, букварь, начатки, основы
+abc:алфавит, азбука, букварь, начатки, основы
 abode:местопребывание, жилище 
-accomplished:Выполненный
+accomplished:выполненный
 accounts:счета
 acquired:приобретённый
 acted: 
-действовал:Anne
+действовал:anne
 announced:объявлял, объявленный 
 apiece:за штуку, поштучно
 articles:предметы 
@@ -11898,7 +11898,7 @@ calculated:
 прекратил :centuries
 champion:чемпион
 changes:меняется 
-Christian:христианский, христианин
+christian:христианский, христианин
 cigarette:сигарета
 cigar:сигара
 citizens:nz ]
@@ -11924,7 +11924,7 @@ constitution:n ]
 доставил :departed
 descended:спускался 
 directed:направленный 
-Disappeared:изчезнувший )
+disappeared:изчезнувший )
 displayed:показанный 
 disposed:склонный, расположенный, имеющийся под рукой  )
 disposition:характер
@@ -11933,10 +11933,10 @@ doubtless:несомненно
 dreams:мечты )
 dying:погибающий
 eating:прием пищи, еда (
-effects:Эффекты 
+effects:эффекты 
 element:элемент, стихия
 elements: 
-Элементы :employed
+элементы :employed
 используемый :ended
 законченный :enjoyed
 получил удовольствие :entering
@@ -11979,7 +11979,7 @@ integer:целое число
 intellectual:интеллигент
 listened:слушал 
 jenny: 
-дженни :Jim
+дженни :jim
 kingdom:королевство
 kings: 
 короли :liked
@@ -12080,7 +12080,7 @@ visited:
 окна :winds
 younger:моложе 
 allegiance:преданность, верность
-Arctic: 
+arctic: 
 полярный, арктический:attest
 удостоверять:audacity
 отвага, нахальство:banquet
@@ -12297,7 +12297,7 @@ usefully:
 с пользой:sterile
 бесплодный :absolute
 совершенный, чистый:abbey
-Аббатство:European
+аббатство:european
 европейский:auditorium
 зрительный зал:dressing
 приправа:dos
@@ -12572,7 +12572,7 @@ preponderant:
 отражать , отвергать, отталкивать, отпор:residence
 резиденция:responsive
 отзывчивый:reverence
-почтение, благоговение :Revolutionary
+почтение, благоговение :revolutionary
 революционный, революционер:rift
 трещина, щель, ущелье:rind
 кожура, кора, корка :ripen
@@ -12580,11 +12580,11 @@ preponderant:
 roller:ролик
 rosy:розовый, румяный 
 rouse:будить, побуждать 
-Russian:русский
+russian:русский
 rut:колея, привычка
 sally:поездка, прогулка
 scaffold:эшафот
-Scotch:надрез, метка, уничтожать
+scotch:надрез, метка, уничтожать
 scrap:клочок, кусочек, отрывок
 scribble:каракули, писать неразборчиво
 sculpture:скульптура
@@ -12781,7 +12781,7 @@ unusually:необычно
 twisted:искривленный
 respected:уважаемый 
 defeated:побеждённый )
-CAREs:заботится, переживает 
+cares:заботится, переживает 
 neighbouring:соседний
 laying:наложение
 released:освобожденный
@@ -12789,7 +12789,7 @@ daybreak:рассвет
 unseen:невидимый 
 appointed:назначенный 
 masses:массы 
-Lads:парни  
+lads:парни  
 parting:прощание
 saving:экономия
 bending:изгиб
@@ -12811,7 +12811,7 @@ muscles:lz ]
 выровненный :surfaces
 поверхности :understanding
 понимание, способность понять:captivity
-следы :Et
+следы :et
 рассчитался :dimly
 смутно  ):peered
 глядел:independently
@@ -12853,7 +12853,7 @@ muscles:lz ]
 тормоза :stumbled
 наткнулся :greetings
 приветствия :slammed
-Хлопнул :admiring
+хлопнул :admiring
 восхищающийся:everyday
 повседневный:nicer
 лучше :departments
@@ -12892,12 +12892,12 @@ muscles:lz ]
 проводимый :unmoved
 равнодушный:unnatural
 неестественный, противоестественный:unwelcome
-нежеланный, неприятный:Staggered
+нежеланный, неприятный:staggered
 пораженный:disguises
 сложенный :weighty
 веский:dyed
 крашенный :wayfarer
-путник, пешеход:Carved
+путник, пешеход:carved
 вырезанный  ):expectations
 ожидания :stems
 стебли :charms
@@ -12906,7 +12906,7 @@ muscles:lz ]
 огорченный :domesticated
 одомашненный :tenth
 десятый:recording
-мятеж, поднять мятеж:Moscow
+мятеж, поднять мятеж:moscow
 москва:renting
 аренда, снятие комнаты:intentions
 намерения :converted
@@ -12919,8 +12919,8 @@ muscles:lz ]
 профессии :seeds
 семена :retained
 приложение :kerb
-обочина:Kate
-кейт :Dan
+обочина:kate
+кейт :dan
 дэн :feeding
 питание:executed
 выполненный :rev
@@ -12937,7 +12937,7 @@ apples:яблоки
 tomatoes:помидоры 
 passages:проходы 
 horns:рожки 
-Cups:чашки 
+cups:чашки 
 spots:пятна 
 yielded:выданный 
 fiery:пламенный 
@@ -12981,7 +12981,7 @@ ties:связи
 measured:измеренный 
 sinking:погружение
 cooling:охлаждение
-Cambridge:кембридж 
+cambridge:кембридж 
 flaming:пылающий
 plates:тарелки 
 spoons:ложки 
@@ -12995,7 +12995,7 @@ teams:команды
 plays:играет 
 dollars:доллары 
 effected:произведенный 
-Sixpence:сумма в 6 пенсов
+sixpence:сумма в 6 пенсов
 flowing:течение
 marmot:сурок
 assembled:собранный 
@@ -13003,7 +13003,7 @@ nobles:lz ]
 знать  :erring
 грешный, заблудший:ducked
 увернулся :bits
-куски :Ms
+куски :ms
 госпожа :crashed
 потерпел крах :carter
 возчик; ломовой извозчик ):bestowed
@@ -13026,7 +13026,7 @@ nobles:lz ]
 забитый :actively
 активно, деятельно:protected
 защищенный :bathing
-купание, купальный:Jobs
+купание, купальный:jobs
 работы :thong
 ремень, плеть:confessed
 утвердительный ответ, положительный ответ  :residential
@@ -13046,22 +13046,22 @@ nobles:lz ]
 множества :suspected
 подозреваемый :subsided
 спадал :el
-Эль:creeping
+эль:creeping
 ползающий :crushed
 сокрушенный :supporting
 опорный:exchanged
 обменивал :winning
 выигрывающий, победа (:sprung
 прыгал  :specimens
-Экземпляры, образцы :bags
+экземпляры, образцы :bags
 сумки, багаж :holds
 держится :watchman
  сторож:trapdoor
-люк:Gipsy
+люк:gipsy
 цыганский, цыган:manipulation
 манипуляция :sticking
 торчащий, приклеенный (:pets
-домашние животные :Jake
+домашние животные :jake
 джейк :chambers
 палаты:numerals
 числительные :pains
@@ -13071,7 +13071,7 @@ nobles:lz ]
 мыл, вымытый :tumbled
 кувыркался :regarded
 расцененный :youngest
-самый молодой, младший :Unreal
+самый молодой, младший :unreal
 нереальный:curls
 завитки :admired
 клиенты :instances
@@ -13091,13 +13091,13 @@ nobles:lz ]
 пушистый:furs
 меха :oysters
 устрицы :requested
-зарегистрированный, заказной :Ben
+зарегистрированный, заказной :ben
 бен :arriving
-прибывающий:Colours
+прибывающий:colours
 цвета :organizer
-организатор:Types
+организатор:types
 типы :shoemaker
-шерстяной:Shrugged
+шерстяной:shrugged
 пожал :crouched
 присел :crawled
 ползал  :wiped
@@ -13105,7 +13105,7 @@ nobles:lz ]
 парировал :smashing
 сокрушительный,разящий  :affectionately
 нежно :debts
-долги :Monuments
+долги :monuments
 памятники :throbbing
 пульсация, биение:fanny
 фанни :comics
@@ -13144,14 +13144,14 @@ nobles:lz ]
 работал, сработанный :traces
 граница, ограничение :bikes
 велосипеды :schemes
-схемы :Sticks
+схемы :sticks
 палки :footprints
 и :risen
 повышенный :preparing
 подготовка :overload
 перегружать:apes
 обезьяны :sets
-декорации :Antarctic
+декорации :antarctic
 антарктический:chances
 возможности :speedy
 быстрый, скорый:cutting
@@ -13166,7 +13166,7 @@ nobles:lz ]
 задние части:tablets
 сбрасывающий:marrying
 бракосочетание:churchyard
-кладбище:Torches
+кладбище:torches
 фонарики :growled
 рычал :joining
 соединение:cleanup
@@ -13178,7 +13178,7 @@ nobles:lz ]
 вёсла :wording
 редакция, форма выражения, формулировка:barnacle
 моллюск :darted
-брошенный  :Presents
+брошенный  :presents
 подарки :verdure
 зелень ***d***:peal
 трезвон, раскат грома:produces
@@ -13202,7 +13202,7 @@ nobles:lz ]
 экзамены :allowing
 нюхнуть :dame
 дама, пожилая женщина :flakes
-хлопья:Rome
+хлопья:rome
 рим :shops
 магазины :planning
 планирование:guessing
@@ -13212,15 +13212,15 @@ nobles:lz ]
 буксируемый :preparations
 приготовления :tentacles
 щупальца :chuckled
-Хихикал :unions
+хихикал :unions
 союзы :lobes
 лепестки :improvements
 усовершенствования :succeeding
 следование:ralph
 ральф :buds
 почка, расцветать :col
-седло :Edinburgh
-Эдинбург :recorded
+седло :edinburgh
+эдинбург :recorded
 зарегистрированный :sierra
 горная цепь:hotter
 жарче :bottles
@@ -13250,12 +13250,12 @@ nobles:lz ]
 турникет :ventures
 предприятия :reflecting
 отражающий:chaise
-фаэтон :Aliases
-псевдонимы :Applet
+фаэтон :aliases
+псевдонимы :applet
 апплет :encampment
 лагерь:watches
-выправляемый :Thomas
-томас :Catherine
+выправляемый :thomas
+томас :catherine
 кэтрин :surveying
 починил, починенный :sidenote
 заметка на полях :viscount
@@ -13277,7 +13277,7 @@ libraries:библиотеки
 boxes:ложи 
 biting:острый, резкий
 horizontally:горизонтально 
-adapted:Приспособленный
+adapted:приспособленный
 fangs:клыки 
 teenagers:подростки 
 invitations:приглашения 
@@ -13287,7 +13287,7 @@ peeves:обиды
 motives:поводы 
 locking:захват
 fetched:принесённый, достанный 
-Bodies:органы 
+bodies:органы 
 summoned:вызванный 
 breeds:породы 
 prevailed:преобладал 
@@ -13309,37 +13309,37 @@ capitalist:капиталист, капиталистический
 owen:оуэн 
 shrubs:кусты  
 alluded:ссылался 
-RPM:оборот в минуту 
+rpm:оборот в минуту 
 tales:сказки, истории 
 beasts:звери 
-emotions:Эмоции 
+emotions:эмоции 
 hairs:волосы 
 consented:соглашался 
 bingo:лото 
-Nell:нелл 
+nell:нелл 
 functions:функции 
 foregoing:предшествующий 
 organs:органы 
 objected:возразил  
-Guarded:охраняемый 
+guarded:охраняемый 
 nan:нэн 
 affections:привязанности 
 owners:владельцы 
 systems:системы 
 groups:группы 
-T:бревно
-Los:лос 
-St:C
-Richard:ричард 
-Angeles:анхелес 
-Jan:январь 
-Turk:турок 
+t:бревно
+los:лос 
+st:c
+richard:ричард 
+angeles:анхелес 
+jan:январь 
+turk:турок 
 homes:дома 
 commands:команды 
-Dr:доктор 
+dr:доктор 
 procedures:процедуры 
 objects:объекты 
-Jackson:джэксон 
+jackson:джэксон 
 servers:прислуга 
 acts:действия
 reared:воздвигнутый 
@@ -13368,8 +13368,8 @@ charlotte:шарлотта
 councilman:член совета 
 dalton:далтон 
 diana:диана 
-edward:Эдвард 
-elizabeth:Элизабет 
+edward:эдвард 
+elizabeth:элизабет 
 excavator:экскаватор
 farrier:кузнец 
 gloria:глория 
@@ -13405,11 +13405,11 @@ sounding:звучащий
 tommy:томми 
 tranquilizer:транквилизатор 
 turpentine:скипидар
-wanting:Желание 
+wanting:желание 
 wheeled:колесный 
 william:уильям 
 withdrew:отошел 
-Timeout:перерыв 
+timeout:перерыв 
 bruises:ушибы 
 clenched:сжатый
 gargling:полоскающий 
@@ -13428,7 +13428,7 @@ fixes:устанавливает
 unofficial:неофициальный
 poems:стихи
 cages:клетки
-Beth:бет
+beth:бет
 beamed:сиял
 indexes:индексы
 blobs:капли
@@ -13440,14 +13440,14 @@ laurie:лаури
 paws:лапы
 ron:рон
 asserted:утвержденный
-Hans:Ханьшуй
+hans:ханьшуй
 lovers:любители
 months:месяцы
 pigeons:голуби
 nicest:самый вкусный
-Steve:стив
+steve:стив
 roused:разбуженный
-ISO:международная организация по стандартизации
+iso:международная организация по стандартизации
 parked:припаркованный
 travelled:путешествовал, много путешествовавший
 danced:танцевал
@@ -13457,17 +13457,17 @@ woodlands:лесистые местности
 bab:бэб
 nieces:племянницы
 nancy:нэнси
-Geoffrey:джеффри
+geoffrey:джеффри
 poking:тыкание
 potions:микстуры
 banisters:перила
-Walter:уолтер
-Maria:мария
-Pearls:Жемчуг
+walter:уолтер
+maria:мария
+pearls:жемчуг
 monks:монахи
-HRS:пихал
+hrs:пихал
 ascertained:нед
-scowled:Хмурился
+scowled:хмурился
 parrots:попугаи
 hist:тише!, тс!
 trains:поезда
@@ -13487,19 +13487,19 @@ balloons:воздушные шары
 authors:авторы
 stooped:наклоненный
 flashlights:прожектора
-experiments:Эксперименты
+experiments:эксперименты
 armies:армии
 regions:области
 arbour:беседка, дерево, ось
 dolls:куклы
-BYTES:байты
+bytes:байты
 softened:смягченный
 hastened:поторопленный
 renamed:переименованный
 bears:медведи
 dangers:опасности
 believing:зажимание
-Collections:собирание, выемка
+collections:собирание, выемка
 today's:сегодняшний
 darkened:затемненный
 dots:точки
@@ -13511,7 +13511,7 @@ whistled:свистел
 stops:остановки 
 asks:спрашивает 
 snorted:фыркал  
-Clasped:сжатый  
+clasped:сжатый  
 halted:приостановленный
 skins:кожи 
 ernie:ерни 
@@ -13521,17 +13521,17 @@ indians:индусы
 warriors:воины 
 congratulated:поздравил 
 aggregated:соединенный 
-aileen:Эйлин 
+aileen:эйлин 
 albert:альберт 
 alexis:алексис 
 alfred:альфред 
 allen:аллен 
-amy:Эми 
+amy:эми 
 angela:анжела 
-anthony:Энтони 
-antony:Энтони 
+anthony:энтони 
+antony:энтони 
 archie:арчи 
-ASA:аса 
+asa:аса 
 attentions:внимание 
 bagful:мешок
 barbara:барбара 
@@ -13543,7 +13543,7 @@ bellamy:беллами
 bennet:беннет 
 berenice:беренис 
 bertram:бертрам 
-Betty:бетти 
+betty:бетти 
 beverley:беверлей 
 bicyclelist:велосипедист
 bladders:пузыри 
@@ -13574,18 +13574,18 @@ differs:отличается
 doubloons:дублоны 
 dudley:дадли 
 dwight:дуайт 
-edmund:Эдмунд 
-elinor:Элеонор 
-eliza:Элиза 
-elliot:Эллиот 
-eloise:Элоиза 
-elton:Эльтон 
-emma:Эмма 
+edmund:эдмунд 
+elinor:элеонор 
+eliza:элиза 
+elliot:эллиот 
+eloise:элоиза 
+elton:эльтон 
+emma:эмма 
 enginedriver:машинист
-ernest:Эрнест 
+ernest:эрнест 
 ethel:етел 
 fairfax:фаирфакс 
-females:Женщины 
+females:женщины 
 fires:огни 
 floored:поставил в тупик, сразил 
 forbes:форбес 
@@ -13597,15 +13597,15 @@ georgiana:георгиана
 golan:голанский 
 gride:скрип  
 gus:гас 
-hannah:Ханна 
-hari:Хари 
+hannah:ханна 
+hari:хари 
 harold:гарольд 
 harriet:гарриет 
 henrietta:генриетта 
-hermione:Хермион 
+hermione:хермион 
 hols:каникулы, отпуск 
-horace:Хорас 
-hugo:Хьюго 
+horace:хорас 
+hugo:хьюго 
 hybrids:гибриды 
 informs:сообщает 
 inga:инга 
@@ -13694,9 +13694,9 @@ versions:версии
 waggoner:извозчик 
 wallace:уоллис 
 waxworks:восковые фигуры 
-Wilfrid:вилфрид 
+wilfrid:вилфрид 
 worlds:миры 
-yuri:Юрий 
+yuri:юрий 
 subscription:абонемента
 subscribed:абонировался
 subscribed:абонируйся
@@ -13741,7 +13741,7 @@ addressed:адресовано
 address:адресом
 address :адресу
 adrianople:адрианополя
-Adriatic:адриатической
+adriatic:адриатической
 hellish:адский
 important:важно
 excitement:азарта
@@ -13836,15 +13836,15 @@ angel:ангелу
 angels:ангелы
 angelic:ангельски
 angelic:ангельской
-English:английская
-English:английски
-English:английский
-English:английском
-English:английскому
-English:англичан
-English:англичанах
-English:англичане
-English:англичанин
+english:английская
+english:английски
+english:английский
+english:английском
+english:английскому
+english:англичан
+english:англичанах
+english:англичане
+english:англичанин
 anecdote:анекдот
 anecdotes:анекдоты
 antwerp:антверпен
@@ -14522,7 +14522,7 @@ conversation:беседу
 conversations:беседует
 conversations:беседуют
 enraged :бесился
-infuriates Xia:бесится
+infuriates xia:бесится
 infinite:бесконечная
 infinite:бесконечно
 infinite:бесконечно
@@ -15109,8 +15109,8 @@ god:богом
 pilgrimage:богомолье
 pilgrimage:богомольно
 praying:богомольные
-mother of God:богородица
-mother of God:богородицу
+mother of god:богородица
+mother of god:богородицу
 blasphemer:богохульник
 god:богу
 cheerful:бодр
@@ -20987,7 +20987,7 @@ days:днями
 days:днях
 added:добавил
 running:добежав
-I'll get there:доберусь
+i'll get there:доберусь
 achieving:добиваешься
 getting:добивай
 won:добивались
@@ -21173,8 +21173,8 @@ thought up:додумалась
 thought out:додумался
 thought out:додумывался
 eat up :доедаем
-I'll get there:доеду
-I've finished it:доел
+i'll get there:доеду
+i've finished it:доел
 were finished:доели
 we've arrived:доехали
 get there:доехать
@@ -21226,7 +21226,7 @@ find:доищусь
 we'll get there:дойдем
 will get there:дойдет
 you'll get there:дойдешь
-I'll get there:дойду
+i'll get there:дойду
 will get there:дойдут
 oncoming:дойдя
 get there:дойти
@@ -21380,7 +21380,7 @@ reported:донесла
 reported:донесли
 report:донести
 report:донесу
-Don Juan:донжуаны
+don juan:донжуаны
 denunciation:донос
 denunciation:доноса
 was heard:доносилась
@@ -22051,15 +22051,15 @@ eunuch:евнух
 jew:еврей
 jewish:еврейский
 jewish:еврейского
-European:европейские
-Evstigney:евстигней
-Evstigneya:евстигнея
+european:европейские
+evstigney:евстигней
+evstigneya:евстигнея
 eating:евших
-Egyptian:египетские
-Egyptian:египетскими
-Egyptian:египетского
-Egyptian:египетскую
-Egyptian:египте
+egyptian:египетские
+egyptian:египетскими
+egyptian:египетского
+egyptian:египетскую
+egyptian:египте
 food:еда
 barely:едва
 eating :еде
@@ -23770,7 +23770,7 @@ entertaining:занимательным
 occupy:заниматься
 occupy:занимаю
 occupy:занимаюсь
-occupy Xia:занимаются
+occupy xia:занимаются
 practicing:занимающаяся
 renewed:заново
 snosyl:занозила
@@ -25325,7 +25325,7 @@ excessive:излишнюю
 outpouring:излияний
 outpouring:излияния
 caught:изловили
-I will be contrived:изловчусь
+i will be contrived:изловчусь
 outline:изложения
 outlined:изложил
 outline:изложить
@@ -26072,7 +26072,7 @@ cavaliers:кавалеры
 cavalcade:кавалькада
 cavatino:каватину
 cavatiny:каватины
-Caucasian:кавказское
+caucasian:кавказское
 quotation marks:кавычках
 quotation marks:кавычки
 censer :кадил
@@ -26097,13 +26097,13 @@ seems:кажусь
 seems:кажутся
 seems:кажущуюся
 seemingly:казавшийся
-Cossack:казак
+cossack:казак
 seemingly:казал
 seemingly:казалась
 seemingly:казались
 seemingly:казалось
 seemingly:казался
-Kazan:казанскою
+kazan:казанскою
 barracks:казарм
 barracks:казармой
 barracks:казармы
@@ -29980,8 +29980,8 @@ moscow:московским
 moscow:московских
 moscow:московского
 moscow:московской
-Moscow:московском
-Moscow:московскою
+moscow:московском
+moscow:московскою
 bridge:мост
 bridge:моста
 bridges:мостах
@@ -32086,7 +32086,7 @@ indestructible:неистребима
 indestructible:неистребимого
 non:неисходно
 non:неисходный
-not Let's go:нейдем
+not let's go:нейдем
 doesn't go:нейдет
 needut:нейдут
 neuplants:нейрастения
@@ -32208,12 +32208,12 @@ no wonder:немудрено
 no wonder:немудреный
 no:немудрый
 dumb:немую
-Germans:немца
-Germans:немцами
-Germans:немцев
-Germans:немцем
-Germans:немцу
-Germans :немцы
+germans:немца
+germans:немцами
+germans:немцев
+germans:немцем
+germans:немцу
+germans :немцы
 dumb:немые
 dumb:немым
 unthinkable:немыслимо
@@ -33547,8 +33547,8 @@ leaning on:облокотясь
 breaking off:обломав
 breaking off:обломаешь
 debris:обломками
-Oblomov:обломов
-Oblomovism:обломовщина
+oblomov:обломов
+oblomovism:обломовщина
 chip:обломок
 blubnet:облупит
 dip:обмакнешь
@@ -34673,9 +34673,9 @@ district:окружном
 winged:окрыляли
 octave:октавой
 octave:октаву
-October:октябрь
-October:октябрьском
-October:октябрьскую
+october:октябрь
+october:октябрьском
+october:октябрьскую
 envelop:окует
 dipped:окунулась
 perch:окуня
@@ -34686,7 +34686,7 @@ iced:оледенела
 iced:оледенивший
 iced:оледенил
 iced:оледенило
-Olympic:олимпийские
+olympic:олимпийские
 olife:олифе
 personified:олицетворенный
 tin:олово
@@ -36241,7 +36241,7 @@ retarded anut:отстанут
 leave me:отстань
 leave me:отстаньте
 leave me:отстать
-I am behind me:отстаю
+i am behind me:отстаю
 unfastened:отстегнул
 defended:отстоял
 defended:отстоялся
@@ -38087,7 +38087,7 @@ urged:побуждали
 urge:побуждение
 were:побывали
 to be:побывать
-I will be:побываю
+i will be:побываю
 has been:побыл
 quickly:побыстрей
 to be:побыть
@@ -38832,7 +38832,7 @@ suspicious:подозрительными
 suspicious:подозрительных
 go:подойдет
 go :подойдешь
-I'll come up:подойду
+i'll come up:подойду
 coming up:подойдя
 come up:подойти
 windowsill:подоконник
@@ -38856,7 +38856,7 @@ approached:подошедший
 came up:подошла
 came up:подошли
 came up:подошло
-I will approach:подошлю
+i will approach:подошлю
 sings along:подпевает
 sang along:подпевал
 sing along:подпевать
@@ -39940,11 +39940,11 @@ to use:пользуясь
 to use:пользы
 polka:полька
 polka:польку
-Polish :польски
-Polish:польские
-Polish:польскими
-Polish:польских
-Polish:польское
+polish :польски
+polish:польские
+polish:польскими
+polish:польских
+polish:польское
 flattered:польстилась
 flattered:польстит
 flattered:польщено
@@ -41498,7 +41498,7 @@ ruler:правителя
 government:правление
 great:правнуки
 right:право
-right Vedas:правовед
+right vedas:правовед
 right:правого
 right:правой
 right:правом
@@ -46474,8 +46474,8 @@ rye:ржи
 riza:ризами
 riza:ризой
 rima:рима
-Romans:римляне
-Roman:римские
+romans:римляне
+roman:римские
 rush:ринется
 rushed:ринулся
 rush:ринутся
@@ -46717,9 +46717,9 @@ growing:росли
 growing:росло
 rosny:росный
 painted:росписные
-Russian:российский
+russian:российский
 rossiyada:россияда
-Russians:россиянину
+russians:россиянину
 growth:рост
 growth:роста
 growth:росте
@@ -46868,7 +46868,7 @@ russian:русско
 russian:русского
 russian:русской
 russian:русском
-Russian:русскую
+russian:русскую
 russo:руссо
 blond:русые
 blond:русыми
@@ -48574,8 +48574,8 @@ glorious:славных
 glory:славой
 glory:славу
 glory:славы
-Slavophile:славянофил
-Slavonic:славянский
+slavophile:славянофил
+slavonic:славянский
 folds:слагает
 folds:слагается
 sweet:сладить
@@ -51687,7 +51687,7 @@ eat:съедает
 eat:съедаешь
 eat:съедаю
 will move out:съедет
-I will move out:съеду
+i will move out:съеду
 shrinking:съежившийся
 shrinking:съежившись
 going out:съезди
@@ -53445,8 +53445,8 @@ you will see:увидишь
 you will see:увидишься
 seeing:увидя
 will see:увидят
-I will see:увижу
-I will see you:увижусь
+i will see:увижу
+i will see you:увижусь
 twisted:увитое
 carried away:увлек
 were carried away:увлекаем
@@ -54154,7 +54154,7 @@ deceased:умерший
 deceased:умершим
 deceased:умершую
 fits:умещается
-I can:умею
+i can:умею
 can:умеют
 being able:умея
 tenderness:умиление
@@ -54212,8 +54212,8 @@ silenced:умолкшими
 thrilled:умолот
 thrilled:умолоте
 keep silent:умолчать
-I will keep silent:умолчу
-I will beg:умолю
+i will keep silent:умолчу
+i will beg:умолю
 begging:умолявшего
 begging:умоляет
 begging:умолял
@@ -55476,7 +55476,7 @@ tavern:харчевен
 tavern:харчевни
 tavern:харчевню
 tavern:харчевня
-Kharkoeve:харькоеве
+kharkoeve:харькоеве
 hut:хата
 praised:хвалил
 boasted:хвалилась
