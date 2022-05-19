@@ -1,4 +1,5 @@
 import re
+from words import Words
 
 llist = []
 rlist = []
@@ -12,7 +13,7 @@ with open("words-eng-ru.txt", "r") as file:
             llist.append(left)
             rlist.append(right.replace("\n", ""))
 
-class Search:
+class Translate:
     def __init__(self):
         pass 
     def load(self, text):
@@ -54,3 +55,21 @@ class Search:
                     elif count == len(llist):
                         tlist.append("out")
         return tlist
+
+if __name__ == "__main__":
+    t = Translate()
+    def main():
+        inp = input("translate: ")
+        if inp == "exit":
+            exit()
+        getw(inp)
+
+    def getw(xarg):
+        global t
+        w = Words(xarg)
+        wl = w.load()
+        sl = t.load(wl)
+        varstr = " ".join(sl)
+        print("translated text: ", varstr)
+    while True:
+        main()
