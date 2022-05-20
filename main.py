@@ -5,7 +5,7 @@ from translate import Translate
 from words import Words
 
 root = tkinter.Tk()
-root.title("translate")
+root.title("Translate")
 root.geometry("605x230")
 root.configure(bg = "black")
 
