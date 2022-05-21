@@ -5,7 +5,7 @@ from translate import Translate
 from words import Words
 
 root = tkinter.Tk()
-root.title("Translate")
+root.title("translate")
 root.geometry("605x230")
 root.configure(bg = "black")
 
@@ -13,6 +13,7 @@ t = Translate()
 
 def translatef():
     global t
+    txt2.delete(1.0, tkinter.END)
     inp = txt.get(1.0, tkinter.END)
     w = Words(inp)
     wl = w.load()
