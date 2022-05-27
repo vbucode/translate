@@ -3,13 +3,16 @@ from tkinter import messagebox
 from tkinter import scrolledtext
 from translate import Translate
 from words import Words
+import corpus
 
 root = tkinter.Tk()
 root.title("translate")
 root.geometry("605x230")
 root.configure(bg = "black")
 
-t = Translate()
+dcorpus = corpus.translate()
+
+t = Translate(*dcorpus)
 
 def translatef():
     global t
