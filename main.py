@@ -32,6 +32,7 @@ def deletef():
     txt2.configure(state = "normal")
     txt.delete(1.0, tkinter.END)
     txt2.delete(1.0, tkinter.END)
+    txt2.insert(1.0, "Translation")
     txt2.configure(state = "disable")
 
 def changelang():
