@@ -10,17 +10,19 @@ root.title("translate")
 root.geometry("650x250")
 root.configure(bg = "black")
 
+flag = 0
+
 dcorpus = corpus.translate()
 
 t = Translate(*dcorpus)
 
 def translatef():
-    global t
     txt2.delete(1.0, tkinter.END)
     inp = txt.get(1.0, tkinter.END)
     w = Words(inp)
     wl = w.load()
-    sl = t.load(wl)
+    sl = gettr(wl)
+    #sl = t.load(wl)
     varstr = " ".join(sl)
     txt2.insert(1.0, varstr)
 
@@ -29,7 +31,24 @@ def deletef():
     txt2.delete(1.0, tkinter.END)
 
 def changelang():
-    pass
+    global flag
+    if flag == 0:
+        lbl["text"] = "Russian"
+        lbl2["text"] = "English"
+        flag = 1
+    else:
+        lbl["text"] = "English"
+        lbl2["text"] = "Russian"
+        flag = 0
+
+def gettr(xarg):
+    global t
+    global flag
+    if flag == 0:
+        r = t.load(xarg)
+    else:
+        r = t.upload(xarg)
+    return r
 
 def infof():
     msg = messagebox.showinfo( "Translate", "by vbucode")
