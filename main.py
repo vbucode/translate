@@ -1,4 +1,5 @@
 import tkinter
+from tkinter import Text
 from tkinter import messagebox
 from tkinter import scrolledtext
 from translate import Translate
@@ -63,7 +64,7 @@ btn4 = tkinter.Button(root, text = "<>", bg = "gray", command = changelang)
 lbl = tkinter.Label(root, text = "English", fg = "white", bg = "black")
 lbl2 = tkinter.Label(root, text = "Russian",  fg = "white", bg = "black")
 txt = scrolledtext.ScrolledText(root, width = 35, height = 10)
-txt2 = scrolledtext.ScrolledText(root, width = 35, height = 10)
+txt2 = Text(root, width = 35, height = 10)
 lbl.place(x = 5, y = 4)
 txt.place(x = 0, y = 20)
 lbl2.place(x = 355, y = 4)
