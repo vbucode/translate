@@ -20,7 +20,7 @@ class Translate:
                     count += 1
                     clearlist = []
                     clearlist = re.split("[\-\s]", j)
-                    c = re.split("[\s]", self.rlist[self.llist.index(j)])
+                    c = re.split("[\,]", self.rlist[self.llist.index(j)])
                     if clearlist[0] == i and len(clearlist) == 1 and len(self.text) == 1:
                         tlist.append(c[0].replace(",", ""))
                         break
