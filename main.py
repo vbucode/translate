@@ -17,18 +17,21 @@ dcorpus = corpus.translate()
 t = Translate(*dcorpus)
 
 def translatef():
-    txt2.delete(1.0, tkinter.END)
+    txt2.configure(state = "normal")
+    txt2.delete(1.0, tkinter.END) 
     inp = txt.get(1.0, tkinter.END)
     w = Words(inp)
     wl = w.load()
     sl = gettr(wl)
-    #sl = t.load(wl)
     varstr = " ".join(sl)
     txt2.insert(1.0, varstr)
+    txt2.configure(state = "disable")
 
 def deletef():
+    txt2.configure(state = "normal")
     txt.delete(1.0, tkinter.END)
     txt2.delete(1.0, tkinter.END)
+    txt2.configure(state = "disable")
 
 def changelang():
     global flag
@@ -71,4 +74,6 @@ btn2.place(x = 96, y = 205)
 btn3.place(x = 170, y = 205)
 
 if __name__ == "__main__":
+    txt2.insert(1.0, "Translation")
+    txt2.configure(state = "disable")
     root.mainloop()
