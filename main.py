@@ -19,14 +19,18 @@ t = Translate(*dcorpus)
 
 def translatef():
     txt2.configure(state = "normal")
-    txt2.delete(1.0, tkinter.END) 
+    txt2.delete(1.0, tkinter.END)
     inp = txt.get(1.0, tkinter.END)
     w = Words(inp)
     wl = w.load()
     sl = gettr(wl)
-    varstr = " ".join(sl)
-    txt2.insert(1.0, varstr)
-    txt2.configure(state = "disable")
+    if len(sl) != 0:
+        varstr = " ".join(sl)
+        txt2.insert(1.0, varstr)
+        txt2.configure(state = "disable")
+    else:
+        txt2.insert(1.0, "Translation")
+        txt2.configure(state = "disable")
 
 def deletef():
     txt2.configure(state = "normal")
