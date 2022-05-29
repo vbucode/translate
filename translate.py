@@ -20,11 +20,12 @@ class Translate:
                     count += 1
                     clearlist = []
                     clearlist = re.split("[\-\s]", j)
+                    c = re.split("[\s]", self.rlist[self.llist.index(j)])
                     if clearlist[0] == i and len(clearlist) == 1 and len(self.text) == 1:
-                        tlist.append(self.rlist[self.llist.index(j)])
+                        tlist.append(c[0].replace(",", ""))
                         break
                     elif clearlist[0] == i and len(clearlist) == 1 and len(self.text) > 1:
-                        tlist.append(self.rlist[self.llist.index(j)])
+                        tlist.append(c[0].replace(",", ""))
                         break
                     elif clearlist[0] == i and len(clearlist) > 1 and len(self.text) > 1:
                         try:
@@ -33,7 +34,7 @@ class Translate:
                                 if k == self.text[self.text.index(i) + count2]:
                                     count2 += 1
                             if count2 == len(clearlist):
-                                tlist.append(self.rlist[self.llist.index(j)])
+                                tlist.append(c[0].replace(",", ""))
                                 var = len(clearlist) - 1
                             else:
                                 count += 1
@@ -47,42 +48,23 @@ class Translate:
         return tlist
     def upload(self, text):
         self.text = text
-        var = 0
         tlist = []
         for i in self.text:
             count = 0
-            while var > 0:
-                var -= 1
-                break
-            else:
-                for j in self.rlist:
-                    count += 1
-                    clearlist = []
-                    clearlist = re.split("[\-\s]", j)
-                    if clearlist[0] == i and len(clearlist) == 1 and len(self.text) == 1:
+            for j in self.rlist:
+                count2 = 0
+                count += 1
+                w = Words(j)
+                wl = w.load()
+                for n in wl:
+                    if n == i:
                         tlist.append(self.llist[self.rlist.index(j)])
-                        break
-                    elif clearlist[0] == i and len(clearlist) == 1 and len(self.text) > 1:
-                        tlist.append(self.llist[self.rlist.index(j)])
-                        break
-                    elif clearlist[0] == i and len(clearlist) > 1 and len(self.text) > 1:
-                        try:
-                            count2 = 0
-                            for k in clearlist:
-                                if k == self.text[self.text.index(i) + count2]:
-                                    count2 += 1
-                            if count2 == len(clearlist):
-                                tlist.append(self.llist[self.rlist.index(j)])
-                                var = len(clearlist) - 1
-                            else:
-                                count += 1
-                                continue
-                        except IndexError:
-                            count += 1
-                            continue
-                        break
-                    elif count == len(self.rlist):
-                        tlist.append("out")
+                    else:
+                        count2 += 1
+                if count2 != len(wl):
+                    break
+            if count == len(self.rlist):
+                tlist.append("out")
         return tlist
 
 if __name__ == "__main__":
