@@ -20,11 +20,12 @@ class Translate:
                     count += 1
                     clearlist = []
                     clearlist = re.split("[\-\s]", j)
-                    c = re.split("[\,]", self.rlist[self.llist.index(j)])
                     if clearlist[0] == i and len(clearlist) == 1 and len(self.text) == 1:
+                        c = re.split("[\,]", self.rlist[self.llist.index(j)])
                         tlist.append(c[0].replace(",", ""))
                         break
                     elif clearlist[0] == i and len(clearlist) == 1 and len(self.text) > 1:
+                        c = re.split("[\,]", self.rlist[self.llist.index(j)])
                         tlist.append(c[0].replace(",", ""))
                         break
                     elif clearlist[0] == i and len(clearlist) > 1 and len(self.text) > 1:
@@ -34,6 +35,7 @@ class Translate:
                                 if k == self.text[self.text.index(i) + count2]:
                                     count2 += 1
                             if count2 == len(clearlist):
+                                c = re.split("[\,]", self.rlist[self.llist.index(j)])
                                 tlist.append(c[0].replace(",", ""))
                                 var = len(clearlist) - 1
                             else:
