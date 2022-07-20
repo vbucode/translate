@@ -3,71 +3,59 @@ from words import Words
 import corpus
 
 class Translate:
-    def __init__(self, llist, rlist):
+    def __init__(self, llist, rlist, vect, dlist, instb, rlist2):
         self.llist = llist
         self.rlist = rlist
+        self.vect = vect
+        self.dlist = dlist
+        self.rlist2 = rlist2
+        self.instb = instb
+
     def load(self, text):
         self.text = text
-        var = 0
         tlist = []
+        searchlist = []
+        searchlist2 = []
+
+        for k in self.text:
+            for i, x in enumerate(self.instb):
+                if x == k:
+                    searchlist.append((k, self.text.index(k), i))
+        if len(searchlist) != 0:
+            for i in range(len(self.dlist)):
+                countw = 0
+                for k in searchlist:
+                    try:
+                        if self.vect[i][k[2]] == 1:
+                            countw += 1
+                            vfk = k[2] + 1
+                            if countw == len(self.dlist[i]) and vfk == k[2] + 1:
+                                searchlist2.append((self.rlist2[i], k[1]))
+                    except ValueError:
+                        pass
+
+        def binarysearch(xlist, item):
+            low:int = 0
+            high:int = len(xlist)-1
+            while low <= high:
+                mid:int = (low + high) // 2
+                if xlist[mid] == item:
+                    return mid
+                elif xlist[mid] < item:
+                    low = mid + 1
+                elif xlist[mid] > item:
+                    high = mid - 1
+            return False
+
         for i in self.text:
-            count = 0
-            while var > 0:
-                var -= 1
-                break
-            else:
-                for j in self.llist:
-                    count += 1
-                    clearlist = []
-                    clearlist = re.split("[\-\s]", j)
-                    if clearlist[0] == i and len(clearlist) == 1 and len(self.text) == 1:
-                        c = re.split("[\,]", self.rlist[self.llist.index(j)])
-                        tlist.append(c[0].replace(",", ""))
-                        break
-                    elif clearlist[0] == i and len(clearlist) == 1 and len(self.text) > 1:
-                        c = re.split("[\,]", self.rlist[self.llist.index(j)])
-                        tlist.append(c[0].replace(",", ""))
-                        break
-                    elif clearlist[0] == i and len(clearlist) > 1 and len(self.text) > 1:
-                        try:
-                            count2 = 0
-                            for k in clearlist:
-                                if k == self.text[self.text.index(i) + count2]:
-                                    count2 += 1
-                            if count2 == len(clearlist):
-                                c = re.split("[\,]", self.rlist[self.llist.index(j)])
-                                tlist.append(c[0].replace(",", ""))
-                                var = len(clearlist) - 1
-                            else:
-                                count += 1
-                                continue
-                        except IndexError:
-                            count += 1
-                            continue
-                        break
-                    elif count == len(self.llist):
-                        tlist.append("out")
+            binaryr = binarysearch(self.llist, i)
+            if binaryr != False:
+                tlist.insert(self.text.index(i), self.rlist[binaryr])
+        for i in searchlist2:
+            tlist.insert(i[1], i[0])
         return tlist
-    def upload(self, text):
-        self.text = text
-        tlist = []
-        for i in self.text:
-            count = 0
-            for j in self.rlist:
-                count2 = 0
-                count += 1
-                w = Words(j)
-                wl = w.load()
-                for n in wl:
-                    if n == i:
-                        tlist.append(self.llist[self.rlist.index(j)])
-                    else:
-                        count2 += 1
-                if count2 != len(wl):
-                    break
-            if count == len(self.rlist):
-                tlist.append("out")
-        return tlist
+
+
 
 if __name__ == "__main__":
     diccorpus = corpus.translate()
