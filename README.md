@@ -1,7 +1,5 @@
 # translate
 
-simple app for translate words, idioms, sentences (eng-ru, ru-eng) 
-
-for translate sentences - words not translated will be "out"
+simple app for translate words, sentences (eng-ru, ru-eng) 
 
 requirements: module words.py from my repository
