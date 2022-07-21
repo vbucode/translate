@@ -30,9 +30,7 @@ class Translate:
                             triallist.append(k[1])
                             countw += 1
                             if countw == len(self.dlist[i]):
-                                for j in range(len(triallist)):
-                                    self.text.pop(triallist[0])
-                                self.text.insert(k[1], (self.rlist2[i], k[1]))
+                                self.text.append((self.rlist2[i], k[1], triallist))
                     except ValueError:
                        pass
         def binarysearch(xlist, item):
@@ -47,7 +45,11 @@ class Translate:
                 elif xlist[mid] > item:
                     high = mid - 1
             return False
-        print(self.text)
+        for i in self.text:
+            if type(i) != str:
+                for j in i[2]:
+                    self.text.pop(j)
+
         for i in self.text:
             if type(i) == str:
                 binaryr = binarysearch(self.llist, i)
