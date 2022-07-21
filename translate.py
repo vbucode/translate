@@ -15,7 +15,6 @@ class Translate:
         self.text = text
         tlist = []
         searchlist = []
-        searchlist2 = []
 
         for k in self.text:
             for i, x in enumerate(self.instb):
@@ -23,18 +22,19 @@ class Translate:
                     searchlist.append((k, self.text.index(k), i))
         if len(searchlist) != 0:
             for i in range(len(self.dlist)):
+                triallist = []
                 countw = 0
                 for k in searchlist:
                     try:
                         if self.vect[i][k[2]] == 1:
-                            triallist = [k[2]]
+                            triallist.append(k[1])
                             countw += 1
-                            if countw == len(self.dlist[i]) and triallist[-2] == k[2] - 1:
-                                searchlist2.append((self.rlist2[i], k[1]))
-                                del self.text[triallist]
+                            if countw == len(self.dlist[i]):
+                                for j in range(len(triallist)):
+                                    self.text.pop(triallist[0])
+                                self.text.insert(k[1], (self.rlist2[i], k[1]))
                     except ValueError:
-                        pass
-
+                       pass
         def binarysearch(xlist, item):
             low:int = 0
             high:int = len(xlist)-1
@@ -47,13 +47,14 @@ class Translate:
                 elif xlist[mid] > item:
                     high = mid - 1
             return False
-
+        print(self.text)
         for i in self.text:
-            binaryr = binarysearch(self.llist, i)
-            if binaryr != False:
-                tlist.insert(self.text.index(i), self.rlist[binaryr])
-        for i in searchlist2:
-            tlist.insert(i[1], i[0])
+            if type(i) == str:
+                binaryr = binarysearch(self.llist, i)
+                if binaryr != False:
+                    tlist.insert(self.text.index(i), self.rlist[binaryr])
+            else:
+                tlist.insert(i[1], i[0])
         return tlist
 
 
