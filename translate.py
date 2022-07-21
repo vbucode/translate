@@ -27,10 +27,11 @@ class Translate:
                 for k in searchlist:
                     try:
                         if self.vect[i][k[2]] == 1:
+                            triallist = [k[2]]
                             countw += 1
-                            vfk = k[2] + 1
-                            if countw == len(self.dlist[i]) and vfk == k[2] + 1:
+                            if countw == len(self.dlist[i]) and triallist[-2] == k[2] - 1:
                                 searchlist2.append((self.rlist2[i], k[1]))
+                                del self.text[triallist]
                     except ValueError:
                         pass
 
